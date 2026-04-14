@@ -194,6 +194,21 @@
   },
   {
     "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 237937063,
+      "friendsCount": 1312,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2043752073079161078",
+    "fullText": "True currency is steadfast friendship"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -673,5 +688,22 @@
     "videos": [],
     "tweetUrl": "https://x.com/LeeMmai/status/2043576640157216789",
     "fullText": "原来推文串可以直接删掉中间的某一条，其余上下文仍会自动串起来，不会从中间断掉"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 237937063,
+      "friendsCount": 1312,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2043038093792677888/vid/avc1/720x1280/mKpzaAqcufDNrrqY.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2043420056311455960",
+    "fullText": "Engineering is real magic https://t.co/aSALzL2oqJ"
   }
 ]
