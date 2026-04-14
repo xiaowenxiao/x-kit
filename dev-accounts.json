@@ -399,7 +399,8 @@
       "AI观察",
       "互联网趋势"
     ],
-    "id": null
+    "id": null,
+    "twitterId": "50683"
   },
   {
     "username": "QingQ77",
@@ -409,7 +410,8 @@
       "AI科技",
       "技术动态"
     ],
-    "id": null
+    "id": null,
+    "twitterId": "1998006140286935041"
   },
   {
     "username": "geekbb",
@@ -420,6 +422,7 @@
       "开源",
       "工具分享"
     ],
-    "id": null
+    "id": null,
+    "twitterId": "168139512"
   }
 ]
