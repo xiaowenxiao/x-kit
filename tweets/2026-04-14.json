@@ -9,6 +9,91 @@
       "friendsCount": 617,
       "location": ""
     },
+    "images": [
+      "https://pbs.twimg.com/media/HFyZbjbacAEk5Pf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044039217462862077",
+    "fullText": "Multica 是一个开源的托管代理平台，能将编程 AI 智能体转化为真正的团队成员\n\n你可以像给同事分配任务一样把 issue 交给代理，它们会自动执行、汇报进度并沉淀可复用的技能。\n\n架构上采用 Next.js 前端 + Go 后端 + PostgreSQL（含 pgvector），支持 Claude Code、Codex、OpenClaw 和 OpenCode https://t.co/rPG3DAOejK"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 148834,
+      "friendsCount": 4938,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF3iZ2qasAIAp0p.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2044038743926157541",
+    "fullText": "This one is really good 👇\n\nhttps://t.co/UKf9N2tmg7 https://t.co/qd3ZnenQEj"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12121,
+      "friendsCount": 617,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HFyVypOagAAnY2s.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044035442605990368",
+    "fullText": "Neiki Editor 轻量级 WYSIWYG 富文本编辑器\n\n易于集成，完全可定制，零依赖。\n\n- 30+ 工具栏按钮 完整的格式化、对齐、插入等功能\n- 浅色/深色主题 跟随系统偏好，支持手动切换\n- 零配置 开箱即用，无需额外设置\n- 轻量体积 零外部依赖\n\nhttps://t.co/C0IQl4NhAe https://t.co/AynEQkA5lr"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 109482,
+      "friendsCount": 507,
+      "location": "火星"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF3Yz2CasAEUHl8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2044028291498291503",
+    "fullText": "好看的 fastfetch 配置，直接丢给 Codex 让它给我配好了。\n\nhttps://t.co/YAjAS5jsD2 https://t.co/georbvLXit"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12121,
+      "friendsCount": 617,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF27susasAQdPwg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044022869622174139",
+    "fullText": "让视频创作者通过 AI 三步自动将科普文本转换为 HTML 演示动画，省去手动制作幻灯片的时间。\n\nhttps://t.co/P1ynoYz6q3\n\n这是一个将科普文本自动转换为 HTML 演示动画的 AI 工作流工具。通过内置的 60+ 条 Prompt 模板和 21 个 HTML 演示模板，配合 OpenClaw、Workbuddy 等 AI https://t.co/TMNk5eBjGX"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12121,
+      "friendsCount": 617,
+      "location": ""
+    },
     "images": [],
     "videos": [
       "https://video.twimg.com/tweet_video/HF3QeXrasAYmEVy.mp4"
@@ -54,7 +139,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109481,
+      "followersCount": 109482,
       "friendsCount": 507,
       "location": "火星"
     },
@@ -84,7 +169,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 148825,
+      "followersCount": 148834,
       "friendsCount": 4938,
       "location": "Remote"
     },
@@ -195,7 +280,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109481,
+      "followersCount": 109482,
       "friendsCount": 507,
       "location": "火星"
     },
@@ -297,7 +382,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109481,
+      "followersCount": 109482,
       "friendsCount": 507,
       "location": "火星"
     },
@@ -329,7 +414,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109481,
+      "followersCount": 109482,
       "friendsCount": 507,
       "location": "火星"
     },
@@ -442,7 +527,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 148825,
+      "followersCount": 148834,
       "friendsCount": 4938,
       "location": "Remote"
     },
@@ -652,7 +737,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 237976419,
+      "followersCount": 237979454,
       "friendsCount": 1312,
       "location": ""
     },
@@ -792,7 +877,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109481,
+      "followersCount": 109482,
       "friendsCount": 507,
       "location": "火星"
     },
@@ -888,7 +973,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 148825,
+      "followersCount": 148834,
       "friendsCount": 4938,
       "location": "Remote"
     },
@@ -920,7 +1005,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109481,
+      "followersCount": 109482,
       "friendsCount": 507,
       "location": "火星"
     },
@@ -1035,7 +1120,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 148825,
+      "followersCount": 148834,
       "friendsCount": 4938,
       "location": "Remote"
     },
@@ -1067,7 +1152,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109481,
+      "followersCount": 109482,
       "friendsCount": 507,
       "location": "火星"
     },
@@ -1455,7 +1540,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 148825,
+      "followersCount": 148834,
       "friendsCount": 4938,
       "location": "Remote"
     },
@@ -1507,7 +1592,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109481,
+      "followersCount": 109482,
       "friendsCount": 507,
       "location": "火星"
     },
