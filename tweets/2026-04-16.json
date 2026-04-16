@@ -5,7 +5,56 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 149076,
+      "followersCount": 149089,
+      "friendsCount": 4944,
+      "location": "Remote"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2044722133775847542",
+    "fullText": "Evolver 最近的抄袭风波都是花钱买稿子的吧，因为突然看到那么多人都写了一大篇长篇大论，文案基本都一样，太明显了。"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12194,
+      "friendsCount": 617,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2044295331983306754/vid/avc1/2640x1540/SjLv56SiBh4c5llj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2044721461873741853",
+    "fullText": "I-DLM 是第一个在 15 项基准测试中追平同规模自回归模型质量的扩散语言模型，大批量推理时吞吐量最高提升到 3.8 倍。\n\nhttps://t.co/dPXmOiJNZA\n\n其核心创新是内省步长解码（ISD）算法，通过单次生成加验证的机制和 p/q 接受准则，数学上保证了输出分布与 AR 模型一致。该模型基于 Qwen3-8B https://t.co/bbQPQrkzX0"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12194,
+      "friendsCount": 617,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF7JoxMbIAA_cDV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044712654087045505",
+    "fullText": "把 GitHub 仓库直接挂到 Mac 上当本地文件夹用，点开就能看文件内容。\n\nhttps://t.co/fpELYg8LOD\n\nGHFS 是个 macOS 小工具，用 Apple 自家的 FSKit 把 GitHub 上的仓库变成你电脑里的只读文件夹。不需要装 macFUSE、git https://t.co/CorPIh9Jgz"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 149089,
       "friendsCount": 4944,
       "location": "Remote"
     },
@@ -22,8 +71,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [],
@@ -37,7 +86,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 238111128,
+      "followersCount": 238116682,
       "friendsCount": 1311,
       "location": ""
     },
@@ -54,7 +103,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109518,
+      "followersCount": 109519,
       "friendsCount": 509,
       "location": "火星"
     },
@@ -71,7 +120,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 238111128,
+      "followersCount": 238116682,
       "friendsCount": 1311,
       "location": ""
     },
@@ -88,8 +137,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [],
@@ -103,7 +152,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 238111128,
+      "followersCount": 238116682,
       "friendsCount": 1311,
       "location": ""
     },
@@ -120,7 +169,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109518,
+      "followersCount": 109519,
       "friendsCount": 509,
       "location": "火星"
     },
@@ -137,8 +186,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [],
@@ -152,8 +201,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [
@@ -169,8 +218,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [
@@ -186,8 +235,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [],
@@ -201,8 +250,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [],
@@ -218,7 +267,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109518,
+      "followersCount": 109519,
       "friendsCount": 509,
       "location": "火星"
     },
@@ -235,8 +284,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [],
@@ -250,7 +299,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 149076,
+      "followersCount": 149089,
       "friendsCount": 4944,
       "location": "Remote"
     },
@@ -267,8 +316,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [
@@ -284,7 +333,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109518,
+      "followersCount": 109519,
       "friendsCount": 509,
       "location": "火星"
     },
@@ -299,8 +348,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [
@@ -316,7 +365,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109518,
+      "followersCount": 109519,
       "friendsCount": 509,
       "location": "火星"
     },
@@ -333,8 +382,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [
@@ -350,8 +399,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [
@@ -367,8 +416,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [],
@@ -382,7 +431,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109518,
+      "followersCount": 109519,
       "friendsCount": 509,
       "location": "火星"
     },
@@ -397,7 +446,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 238111128,
+      "followersCount": 238116682,
       "friendsCount": 1311,
       "location": ""
     },
@@ -414,8 +463,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [],
@@ -431,7 +480,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 149076,
+      "followersCount": 149089,
       "friendsCount": 4944,
       "location": "Remote"
     },
@@ -448,8 +497,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [
@@ -465,8 +514,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [
@@ -482,8 +531,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [],
@@ -499,8 +548,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [],
@@ -514,8 +563,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [
@@ -531,7 +580,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109518,
+      "followersCount": 109519,
       "friendsCount": 509,
       "location": "火星"
     },
@@ -548,8 +597,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [
@@ -565,8 +614,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [
@@ -582,8 +631,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [],
@@ -599,8 +648,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [
@@ -616,7 +665,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 109518,
+      "followersCount": 109519,
       "friendsCount": 509,
       "location": "火星"
     },
@@ -633,8 +682,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [
@@ -650,8 +699,8 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 12189,
-      "friendsCount": 616,
+      "followersCount": 12194,
+      "friendsCount": 617,
       "location": ""
     },
     "images": [],
@@ -684,7 +733,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 238111128,
+      "followersCount": 238116682,
       "friendsCount": 1311,
       "location": ""
     },
