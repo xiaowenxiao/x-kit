@@ -1,0 +1,741 @@
+[
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 149299,
+      "friendsCount": 4947,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGEl3bUaoAAfV-e.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2044958050315030738",
+    "fullText": "每天打开 X 的时间线 be like...\n\nHermes 也推出了类似 OpenRouter 的 API 统一订阅服务了。https://t.co/L3TxEnfs58 https://t.co/SaS94gN2T5"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF_kk2OaUAAPfg6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044946444319150304",
+    "fullText": "百度开源的文生图模型，仅 8B 参数即可在开源文生图领域达到 SOTA 水平。\n\n这是百度出的开源文生图模型，用 Diffusion Transformer 架构，自带一个提示词增强器能把简单描述扩写成详细的结构化提示。\n\n8B 参数的规模在 GenEval https://t.co/HFJKYh07iy"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HF_j-zKboAAdNy-.mp4"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2044931344766021756",
+    "fullText": "把 macOS Sonoma 的\"点击壁纸显示桌面\"功能移植到 Windows 10/11 上。\n\nhttps://t.co/qGdBmzWIgK\n\n点击桌面空白处就能隐藏所有窗口显示桌面，再点一下就恢复。提供了三种显示模式，程序用 .NET Native AOT 编译，体积只有 800 多 KB，跑起来不占什么内存。 https://t.co/uLKVf1rqLg"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 109525,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGEGRpFasAA-XGN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2044922961547903015",
+    "fullText": "萝卜青菜各有所爱吧，长这么大还没有看到过比 Hermes 更难看的主页😅 https://t.co/yybL3Q3gO5"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044916497022398886",
+    "fullText": "一个面向多模态大模型的高性能异步强化学习后训练框架，统一处理文本、视觉和音频的 RL 训练。\n\nhttps://t.co/8oTOgZ6mQj\n\n小红书 AI 团队开源了 Relax，用来给多模态大模型做强化学习后训练。架构上跑在 Ray Serve 的六层服务化体系里，训练用 Megatron-LM，推理用 SGLang，中间用 TransferQueue"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 109525,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGEAeuSbYAAtEU_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2044916240477806640",
+    "fullText": "终于不用再安装汉化包了，官方简体中文来了！\n\nTelegram 客户端已内置“简体中文”和“繁体中文”语言\n\n更改语言： \n   * Settings → Language → Chinese\n   * 设置 → 语言 → 中文 https://t.co/LEsQDPhqTM"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044901146217644335",
+    "fullText": "Anubis 用来根据 VPN 状态开关自动冻结或解冻应用。它不走沙盒隔离路线，而是用 Shizuku 从系统层直接禁用应用，被禁用的应用什么也干不了。\n\nhttps://t.co/Ems5OyW1t9\n\n连了 VPN 就冻结一组应用，断了 VPN 就冻结另一组。跟 Island、Shelter 这类沙盒方案比起来，它直接通过 Shizuku 调 `pm"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044886046421467438",
+    "fullText": "一个 Cursor 插件技能，用来回答\"XXX 是怎么工作的\"这类问题，自动对代码库生成清晰的架构级解释。\n\nhttps://t.co/8xB0JeH2TP\n\npoteto 做了一个 Cursor 插件，装了之后可以用 `/how` 命令问问题，比如\"消息虚拟化怎么实现的\"或者\"用户发消息的完整流程是什么\"。"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF_d4ujagAAUTFP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044812562663923899",
+    "fullText": "一个轻量级的集中式网络资产发现与监控方案，不用上重型 SIEM 也能持续跟踪内网设备状态和变化。\n\nhttps://t.co/9k73nbc4kf\n\nNetAlertX 做的事说白点就是替你盯着局域网里的设备。通过 arp-scan、Pi-hole、UNIFI 控制器、SNMP 路由器这些方式不断扫描，自动记录哪些设备在线、哪些新冒出来了。 https://t.co/9ki1W2tPF4"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 149299,
+      "friendsCount": 4947,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGCaPsSaAAEc_rz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2044803917721288888",
+    "fullText": "Opus 4.7 in @FactoryAI droid, 50% off 😍 https://t.co/n5jk43vXhB"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF8skK9bQAAeDU_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044796205147041820",
+    "fullText": "把分散在不同终端里的 agent、计划任务和远程查看能力收拢到一个桌面入口里，用起来更像统一调度台，不用在一堆窗口之间反复切换。\n\nhttps://t.co/MPfuJgIK91\n\nClawTab 本质上是一个给 agent 工作流用的桌面控制台，重点不是再造一个模型，而是把 Claude Code、Codex、OpenCode https://t.co/EHL3kwLn3V"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 109525,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGCJINTbkAA_Rse.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2044785473575592031",
+    "fullText": "666~ 金谷园饺子馆 AI Skill\n老板是不是推友，够前卫，够AI，有创意。\n不过话说回来，我调用的 Token 不会比饺子贵吧🤣\n\nhttps://t.co/QcPqi4iz70 https://t.co/xgzR7msM4a"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044778840174838028",
+    "fullText": "proxy-fleet 一行命令管理多台 VPS 代理节点：部署 3x-ui + VLESS+Reality，自动生成 Clash/Mihomo 订阅链接，增删节点后自动同步。\n\nhttps://t.co/RrdzXxVTL4"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF7NBYnbsAAW8MS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044764747414040869",
+    "fullText": "Camyla 把医学图像分割研究做成了全自动流水线：丢进数据集，最后直接出论文，中间不需要人插手。\n\nhttps://t.co/Rfn2C54zbk\n\n你给它一个医学图像分割任务，它自己查文献、提假设、跑实验、写论文，全套走完不用人管。28 天里它写了 40 篇论文，每篇花在 LLM API 上的钱大概 20 到 30 美元。31 https://t.co/KDEcSJkwy6"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044761979156328554",
+    "fullText": "一个用 C 写的终端 fetch 工具，灵感来自 donut.c，会把发行版 logo 转成带光照的 3D 旋转浮雕。\n\nhttps://t.co/J6IA3QfihW"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2044749682837217281/vid/avc1/1080x1920/eJvPSTm_AjByEoHr.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2044750146039337197",
+    "fullText": "有点意思 https://t.co/vWDBcClJpk"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF7HUAsasAAliw2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044743356459184569",
+    "fullText": "给 Pi 编码代理写了个新手教程扩展，边教边带你做一个小项目上手。\n\nhttps://t.co/CiVmbazdBF\n\n一条命令 pi -e 就能加载。教程分五步走：先介绍 Pi 怎么用，再一起选个小项目来做，然后学规划模式，接着动手写代码，最后教你写个 Pi 扩展。每走完一步自动记进度并推下一步，用户在做项目的过程中就把 https://t.co/hlvURT3UzD"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 109525,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGBc8Qxa0AAeeXI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2044736447958393008",
+    "fullText": "https://t.co/l0iXgJVPqV"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 149299,
+      "friendsCount": 4947,
+      "location": "Remote"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2044722133775847542",
+    "fullText": "Evolver 最近的抄袭风波都是花钱买稿子的吧，因为突然看到那么多人都写了一大篇长篇大论，文案基本都一样，太明显了。"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2044295331983306754/vid/avc1/2640x1540/SjLv56SiBh4c5llj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2044721461873741853",
+    "fullText": "I-DLM 是第一个在 15 项基准测试中追平同规模自回归模型质量的扩散语言模型，大批量推理时吞吐量最高提升到 3.8 倍。\n\nhttps://t.co/dPXmOiJNZA\n\n其核心创新是内省步长解码（ISD）算法，通过单次生成加验证的机制和 p/q 接受准则，数学上保证了输出分布与 AR 模型一致。该模型基于 Qwen3-8B https://t.co/bbQPQrkzX0"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF7JoxMbIAA_cDV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044712654087045505",
+    "fullText": "把 GitHub 仓库直接挂到 Mac 上当本地文件夹用，点开就能看文件内容。\n\nhttps://t.co/fpELYg8LOD\n\nGHFS 是个 macOS 小工具，用 Apple 自家的 FSKit 把 GitHub 上的仓库变成你电脑里的只读文件夹。不需要装 macFUSE、git https://t.co/CorPIh9Jgz"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 149299,
+      "friendsCount": 4947,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGA-afoaYAAvyD9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2044702858474557670",
+    "fullText": "人们好喜欢做这种东西。\n\nhttps://t.co/Ei24wFjS0o https://t.co/DmRmn7LBw0"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044692772825800785",
+    "fullText": "给 OpenClaw 写了套家庭管理模板，AI 帮你管日程、看学校消息、排饭菜、记作业、提醒交家政费。\n\nhttps://t.co/CpfocXodZM\n\nradclaw 就是个家庭版的 OpenClaw 模板，拿 AI"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 238171787,
+      "friendsCount": 1312,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2044584578455674881/vid/avc1/1920x1080/PgKbeFq11lVJPEBK.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2044682767846563861",
+    "fullText": "https://t.co/5iAjHiDPsq"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 109525,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGAjsPeagAALwyE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2044678797417734286",
+    "fullText": "Qwen3.6 Plus 和 GPT-5.4 还是我用得最顺手的模型。昨天 Qwen Code 额度取消之后，所有 2API 渠道已经白嫖不了，我也接上了 OpenRouter，准备开始用 Qwen3.6 Plus（里面还留着之前为了薅 Gemma 充的 10 刀）\n\n大白嫖的时代算是结束了，今天顺手清理了一下 New API https://t.co/xPCZtmLKmM"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 238171787,
+      "friendsCount": 1312,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1833354923913650176/vid/avc1/1280x720/9MCpXlfdUK3llLE8.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2044678541925855452",
+    "fullText": "Interesting  https://t.co/zG175gj2Fg"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044676918344323497",
+    "fullText": "一个 Xposed 模块，堵住 Android 存储里通过 Unicode 隐藏码点偷看其他 App 包名的漏洞。\n\nhttps://t.co/YljloyOCLP\n\nAndroid 外置存储用 FUSE 做访问控制，内核的文件系统支持 casefold（大小写不敏感 + 过滤可忽略码点），但 FUSE Daemon"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 238171787,
+      "friendsCount": 1312,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2044452993823592448/vid/avc1/1280x720/KirioNLKrIEG35hW.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2044675545670230323",
+    "fullText": "The probability of this happening is not 0% https://t.co/7jcei5TxUp"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 109525,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGAY5REbYAAtJvT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2044661892174716952",
+    "fullText": "解决 Hermes Agent 在上下文填满时用有损摘要替换对话导致信息丢失的问题，这个插件把所有消息原样存进 SQLite，压缩时做分层 DAG 摘要，配合检索工具随时能回看被压缩的内容，确保信息无损不丢。\n\nhttps://t.co/FN87k00ARy https://t.co/XUz51eGuS7"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044660560504266985",
+    "fullText": "它想把 DuckDB 从单机数据库变成一个能连远端、能混合执行、还能自己托管的开放方案，用户不用绑在专有云服务上。\n\nOpenDuck https://t.co/ITWgczhAUj\n\n一个受 MotherDuck 架构启发的开源项目，目标是把 DuckDB 的远程数据库、差异化存储和双端执行能力开放出来，供用户自建和扩展。仓库核心由 Rust"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF6w2BbacAAuzsl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044647474560901508",
+    "fullText": "把多家 LLM 提供商接到一个本地 OpenAI 兼容网关前面，用路由、日志和密钥管理来降低调用成本并统一接入方式。\n\nhttps://t.co/8iEqdzU9JJ\n\n这是个 Python 3.11 以上可用的本地 LLM 网关项目，对外提供 OpenAI 兼容接口，所以很多现有应用基本只要改一下 base URL https://t.co/UxyIyjCdrD"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF6vE3UasAMuwdF.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044641183088189868",
+    "fullText": "Void-Tools 把分散的 OSINT、网络查询、Discord 操作和攻击类脚本塞进一个终端界面里，用户不用自己逐个找工具再单独运行。\n\nhttps://t.co/hu4V3d17za\n\n这是一个用 Python 写的终端工具箱，列了 11 个模块。功能范围很杂，既有 OSINT、IP 查询、密码和临时邮箱，也有 Discord https://t.co/EZaLLSfDR2"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044635143126794406",
+    "fullText": "Chinese Tech Doc Style\n\n本项目只是一份面向中文技术文档、产品文案与界面文案的写作 Skill。\n\nhttps://t.co/2ivtABO3j5"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HF6VvdjasAEXZcZ.mp4"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2044623567220777344",
+    "fullText": "基于对象存储的多租户搜索引擎，把 S3 级别的存储成本和接近内存的查询速度同时做到。\n\nhttps://t.co/xWlcC2lJWx\n\nFirn 是个开源搜索引擎，同时做向量和全文搜索，数据存在 S3 这类对象存储上。它用 RAM、NVMe、S3 三级存储配合 LanceDB 和 foyer 缓存，把原本 25 秒的冷查询压到 72 https://t.co/u1jZr4c0qp"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 109525,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF_redAaUAAQAsd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2044613517014413512",
+    "fullText": "今天你骂 AI 了吗\n\n一个本地 Rust 工具，直接读取 Codex、Claude Code 和 OpenCode 存在本地的会话记录，统计你说了多少脏话，然后生成一份 HTML 报告。\n\n这里面还有每天说脏话的次数趋势、还有一个叫 `SBAI` 的标准化强度指标，是每千 token 的脏话频率，指数越高，AI 写得越自信。 https://t.co/AuIWv1n5Vg"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044611487185166444",
+    "fullText": "AI 写的东西总不像人话。这个项目给了个填空模板，把你平时手写的习惯、口头禅、删改规律一条条列出来，喂给 AI，它写出来的东西就带你的味儿了\n\nhttps://t.co/stIhBlZJep\n\n这是一个用于教会 AI 模仿用户个人写作风格的 Claude Skill"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 149299,
+      "friendsCount": 4947,
+      "location": "Remote"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2044395660284469248/vid/avc1/1752x1210/e_KnwGA--ePFd6uq.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dingyi/status/2044599553488269314",
+    "fullText": "哇终于有这种组件库了：npm install border-beam https://t.co/IhRPqKjweY"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF6TcdxasAAKa4T.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044595884621812063",
+    "fullText": "几个家庭凑一趟出行，路线、到达时间和吃饭安排全得靠群聊和表格来回对。这个 Family Trip Command Center 项目把这些信息塞进一张暗色仪表盘里，路线、出发时间、每天干什么一目了然，顺便把规划过程搞得像作战指挥室一样好玩。\n\nhttps://t.co/VxBl80rSrW https://t.co/chR9oFfiqa"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 109525,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2044594287757996116",
+    "fullText": "Vercel 搞了一个网页终端模拟器 wterm。核心用 Zig 写，编译成大约 12 KB 的 WASM 包，性能跟原生差不太多。\n\n跟一般用 Canvas 画的终端不同，它直接渲染到 DOM 上，所以文本选择、复制粘贴、搜索、屏幕阅读器这些都是浏览器自带的，不用额外折腾。\n\nhttps://t.co/BU33q3wJKh"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF6P11iaMAAucJB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044561407082135650",
+    "fullText": "GEOFlow\n\n一个面向 GEO / SEO 内容运营场景的开源内容生产系统。它把模型配置、素材管理、任务调度、草稿审核和前台发布串成一条完整链路，适合搭建自动化内容站点或内部内容运营后台。\n\nhttps://t.co/7aapARzEkr https://t.co/uyC0J8h7jX"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 109525,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF-6OB4bIAATdE8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2044557974556041417",
+    "fullText": "Gemini 官方 macOS 版，做得不错啊。\n\nhttps://t.co/6XYALol5lV https://t.co/A1VmEgYjWl"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF7nunXaEAA9ftP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044541526068629959",
+    "fullText": "为 React 提供开箱即用的终端 UI 组件库，无需配置即可快速构建美观的终端界面。\n\nhttps://t.co/2H6U1zxBOt\n\n自动适配终端主题、开箱即用、和 shadcn/ui 兼容。自带图表、AI 交互、导航等组件，MIT 开源，一条命令装好。 https://t.co/ya3cZm33tq"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HF6PkrGaAAAx_BL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2044530956682346891",
+    "fullText": "达尔文.skill\n\n像训练模型一样优化你的 Agent Skills\n\nhttps://t.co/Si26vIPtzi https://t.co/VIbSlWGM2A"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 109525,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2044447749391958405",
+    "fullText": "今天被谁抄袭谁闹麻了，而我搞了一晚上的Qwen2API，Qwen3.6-Plus 400 错误，发现好几个项目都删除了 Qwen OAuth，接不出来了🥹"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 12227,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2044402056539336704/vid/avc1/1920x1080/SO8P8bOXWsHoqK9F.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2044402298957545802",
+    "fullText": "cool https://t.co/xvvn14LN0g"
+  }
+]
