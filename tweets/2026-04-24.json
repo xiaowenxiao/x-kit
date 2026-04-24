@@ -1,0 +1,500 @@
+[
+  {
+    "user": {
+      "screenName": "NFL",
+      "name": "NFL",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+      "description": "It's #NFLDraft Week!",
+      "followersCount": 36303564,
+      "friendsCount": 2804,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2047454568888541184/vid/avc1/1920x1080/h4zYKpTzJ0gdTEBP.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NFL/status/2047455568843989008",
+    "fullText": "Fernando Mendoza is gearing up to hear his name called with friends, family, and the Heisman Trophy 🙌 @IndianaFootball\n\n2026 NFL Draft starts at 8pm ET on NFLN/ESPN/ABC\nStream on @NFLPlus https://t.co/2sbG8Ez5jr"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 150280,
+      "friendsCount": 4963,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGmTBjwbkAA_5SI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2047329162726375516",
+    "fullText": "第一次尝试 ChatGPT Images 2.0 的我。 https://t.co/NDWMcTfSIV"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 150280,
+      "friendsCount": 4963,
+      "location": "Remote"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2047229329172799772",
+    "fullText": "真的是服了国内这帮一年两箱油的破日本车了，全是老登在开，一点油舍不得给。应该让他们去大模型公司做研究员，天天研究怎么节省 token。"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGfDtDgbcAAWWNU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2047211368609452461",
+    "fullText": "为 Pi 编程助手加上\"看屏幕、点鼠标、打字\"的能力，让 AI 直接操控 macOS 应用。\n\nhttps://t.co/BOuTJ0cRjj\n\n这是一个给 Pi 加计算机控制功能的包，包含扩展、Skill 和一个 macOS 原生 Helper。工具就四个：截图、点击、输入、等待。默认走 Accessibility API，必要时也有回退方案。严格模式下只允许 https://t.co/J08xJRnjlM"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGe-irkasAAd3j6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2047196269412528203",
+    "fullText": "在任意网络下运行一个便携本地 DNS 解析器，拦截广告、管理本地域名，全程加密，无需树莓派或云账号。\n\nhttps://t.co/niKt26kiVY\n\nNuma 是个 Rust 写的 DNS 小工具，打包成约 8MB 的单文件，macOS、Linux、Windows 都能跑。\n\n内置 38.5 万+广告域名拦截，自带 .numa 本地域名系统，自动生成 TLS https://t.co/rWmkonCExz"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 150280,
+      "friendsCount": 4963,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGkTX0lb0AAoPSN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2047188968719200595",
+    "fullText": "非常的硅谷复古范儿了。 https://t.co/vcVdsoHWAw"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGe54ulboAAAUeL.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2047181169691619740",
+    "fullText": "让 LLM 通过一条 WebSocket 直接调用 Chrome 的 652 个 CDP 方法操控浏览器，不封装、不缩减参数。\n\nhttps://t.co/x1rlvszMnk\n\nBrowser Harness JS 是 LLM 到 Chrome 的最薄通道：一条持久 WebSocket，56 域 652 个类型化方法，不写任何 helper。\"协议即 API\"——不封装 click()、goto() 等，因为每个 https://t.co/NiiPchMe6y"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 150280,
+      "friendsCount": 4963,
+      "location": "Remote"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2046992820641116160/vid/avc1/2176x2160/qry3suBzdvwHn7y_.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/dingyi/status/2047172794618958284",
+    "fullText": "Framer shaders 😍 https://t.co/K2yloYG4nG"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGe4i8VbkAALqSv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2047166069874532653",
+    "fullText": "一个开源的 Claude Design 平替，把提示词直接生成可交互的 HTML 原型、幻灯片或营销素材，支持多模型自带 Key。\n\nhttps://t.co/v2Nyn3POvh\n\nOpen CoDesign 是 Claude Design 的开源替代，Electron 桌面应用，设计数据全在本地不走云端。支持 20+ 模型（Claude、GPT、Gemini、Ollama 等），自带 Key https://t.co/Iphugn4gVx"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2047150970623455367",
+    "fullText": "为 Codex 及兼容工具提供可复用的 agent 技能包，包含 PRD 创建和代码审查两个技能。\n\nhttps://t.co/o44nLwGz0B\n\nprd 帮你写有依据的 PRD，自动拆分阶段；review-implementation 对照需求文档检查代码，找到问题直接修。另外附带 AGENTS.md 和 CLAUDE.md 模板，用 npx skills、gh skill、shell 脚本或"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 150280,
+      "friendsCount": 4963,
+      "location": "Remote"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2047146083219099939",
+    "fullText": "人们每天浪费大量 token，用在有一个人前来买瓜这样的视频上面。有一半的算力都用来生产赛博垃圾了。"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGehv54a8AAEjfX.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2047135871103562201",
+    "fullText": "让 Hermes 代理不用在配置文件里留明文密钥，而是把凭据加密存到本地库，按策略分发给各个代理\n\nhttps://t.co/Wpnn9lMwIO\n\nHermes Vault 给 Hermes 代理做凭据管理：扫描配置文件里的明文密钥和不安全权限，加密存到本地 SQLite，按代理策略分发凭据（可以设 TTL https://t.co/cRRVOAQayC"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGeSys5awAA3sfa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2047120771517178005",
+    "fullText": "给 Firefox 浏览器添加 WebUSB 功能，让网页可以直接访问 USB 设备，弥补 Chrome 有 WebUSB 而 Firefox 没有的缺口。\n\nhttps://t.co/VS2aZpQEJp\n\nawawausb 是一个 Firefox 扩展加上 Rust 写的本地程序，通过 native messaging 给 Firefox 加了 WebUSB 支持。需要同时装扩展和本地 stub https://t.co/o9jdGvQQMX"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2047090572436074682",
+    "fullText": "好家伙，连 AI Agent 开始压榨 Token 了\n一个权限硬化的 AI Agent——执行命令前先问你，还带 Token 预算控制和 CLI/Telegram 双通道。\n\nhttps://t.co/ja7XSRCdCb\n\nMercury Agent 是 TypeScript 写的开源 AI Agent。它用 shell"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGeN862bgAAP-5C.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2047077737945526320",
+    "fullText": "在 AI agent 里用一句话指令生成能直接交付的高保真 HTML 设计——原型、幻灯片、动画、信息图——不需要打开任何图形工具。\n\nhttps://t.co/vYUQDRMzSM\n\nHuashu Design 是一个装进 agent 就能用设计 skill，说句话就出可交互原型、可演讲幻灯片、可导出 MP4 动画和可编辑 PPTX。内置 20 https://t.co/Vc4GF5Q0NU"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGbuthVacAArXKP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2046981604799910329",
+    "fullText": "零配置的 Linux 防火墙，使用 eBPF/XDP 在网卡驱动层处理数据包，实现线速过滤和自动端口白名单维护。\n\nhttps://t.co/ZCPS6zdCUY\n\nAuto XDP 是一个 Linux 防火墙，直接在网卡层面丢弃不需要的包，不走内核网络栈。这样做的好处是 CPU 几乎不吃力：实测 367k PPS 的 UDP 洪水攻击，开启 XDP 后 CPU 从 https://t.co/H1TjwMmH3i"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGbsaYFaQAAZB22.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2046969777261039895",
+    "fullText": "为数据库工程师提供 AI 驱动的 SQL 编写、调试和运维一体化工作台。\n\nhttps://t.co/wDALDoQiq5\n\nDory 把 SQL 编辑器、AI 助手和数据库运维整合到一个桌面应用里。支持 ClickHouse 深度集成（监控 + 权限管理），也兼容 PostgreSQL、MySQL 等主流数据库。\n\n本地安装或 Docker https://t.co/Q5R3aBMkaA"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 150280,
+      "friendsCount": 4963,
+      "location": "Remote"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2046966520295907329/vid/avc1/1390x720/EMAKbvYb2nmrWUMR.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/dingyi/status/2046966571135021190",
+    "fullText": "这个挺可爱。\n\nhttps://t.co/7hATLN804k https://t.co/Tsdfckqafa"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2046954677242319312",
+    "fullText": "一套 macOS 脚本，让 cmux 终端和 Claude Code 联动，自动管理工作区布局、会话快照、表面分类和 Markdown 预览。\n\nhttps://t.co/TiD3eZUmuZ\n\n把 cmux 终端和 Claude Code 接在一起，提供几个实用脚本。AI 自动把终端表面按研究/工具/工作分类分组；Claude"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGbZMBsb0AAd_cE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2046939578460774636",
+    "fullText": "一个高性能的文档和图像查看器，优先优化屏幕空间利用和操作控制。\n\nhttps://t.co/JBgzw5Hgww\n\nLektra 是用 C++ 编写的高性能文档和图像查看器，支持 PDF、XPS、CBZ、EPUB、Mobi、DjVu 等多种格式以及常见图片格式。它强调屏幕空间的高效利用和键盘控制，提供分屏、标签页、Portal https://t.co/6uzYpyHSxI"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2046924478534557802",
+    "fullText": "给语言模型一个基于认知科学的运行环境，让它能持续执行任务、自我纠错，不跑偏。\n\nhttps://t.co/1vVJdrLWpr\n\nCortex 是用 Rust 写的语言模型运行时，不搞功能堆砌，直接从认知科学理论出发设计架构。全局工作空间理论管并发，互补学习系统管记忆巩固，漂移扩散模型管置信度积累，全部落地为 Rust"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGfs2NiaAAEW8bN.jpg",
+      "https://pbs.twimg.com/media/HGfs3P2acAAxrwT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2046916928636088331",
+    "fullText": "基于 OpenCode 打造本地 AI 智能体桌面工作空间，提供 Agent 协作、渠道集成和团队同步能力。\n\nhttps://t.co/n5ISf20Ayt\n\nTeamClaw 是一款用 Tauri 2.0（Rust）写的桌面应用，跑在本地，内置 OpenCode Agent，支持 macOS 和 Windows。\n\n界面是三栏设计，左边栏、中间聊天、右边详情。它能接 https://t.co/i2CUnyf6b2"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGbH17FaMAAu3mF.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2046909378972770419",
+    "fullText": "一个前后端分离的开源博客系统，Go 后端配合 React 前端，开箱即用，支持 Docker 部署。\n\nhttps://t.co/pvpW0i0d8v\n\nSolace 是一个全栈博客系统。后端用 Go + Gin + GORM + PostgreSQL，前端用 React 18 + TypeScript + Tailwind CSS。\n\n支持 Markdown 编辑、分类标签、相册、全文搜索、JWT 登录和 https://t.co/Y2wTjbtXEE"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGfTVskawAAS_80.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2046901828840046811",
+    "fullText": "消费级显卡其实有足够的硬件潜力，只是通用框架把大部分性能浪费在无效开销上。Lucebox 通过手写内核针对性释放这部分潜力，让 2020 年的 RTX 3090 也能跑出接近 Apple 最新芯片的能效比。\n\nhttps://t.co/DZ9QXXjGdP\n\nLucebox 是一个在消费级 GPU 上手动调优 LLM https://t.co/Dvc1wZN1pu"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGbHPrfakAAkaCx.jpg",
+      "https://pbs.twimg.com/media/HGbHQV3bQAAo0Hb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2046894279126049175",
+    "fullText": "为 ADHD 人群提供 Obsidian 内的视觉强调阅读模式，通过加粗词首引导视线，解决中文阅读缺少空格分隔导致的专注力问题。\n\nhttps://t.co/7ZkixFKoyS\n\n这个 Obsidian 插件把每句话的词首加粗来引导视线，帮 ADHD 用户读长文时不容易走神。中文部分用 jieba-wasm 自动分词，分不出来就降级到浏览器自带的 https://t.co/l4CtLMOKvP"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGfvq6BasAAU5Xl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2046886729643082002",
+    "fullText": "在命令行中与打字机器人对战，或挑战自己的历史最佳成绩，从而练习和提升打字速度。\n\nhttps://t.co/IZNOChgLzS\n\n一个装成全局 npm 包用的命令行打字游戏。跟机器人比，或者跟自己历史最好成绩比都行。难度可以调，机器人可以让你几个字符，也能按不同作者选句子练。历史成绩会存下来，可以按 CPM、WPM https://t.co/O2Lss4ooeO"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2046879179786895708",
+    "fullText": "提供一套 Claude Code 工程化使用规范，通过上下文纪律、子代理委派和多模型共识，实现长时间高强度 SaaS 开发的零配额超限和零幻觉修复。\n\nhttps://t.co/pBa32AJBMA\n\n这是一套 Claude Code"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGaqT2BaUAAMNnQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2046864080204394611",
+    "fullText": "为个人摄像头场景提供一站式的 YOLO 数据集管理工具——从图像标注、去重、训练到部署全流程自动化。\n\nhttps://t.co/hxs7CHPqmS\n\nALICE 是一个开源的 YOLO 数据集管理工具，涵盖浏览标注、pHash 去重、Frigate NVR 截图导入、视频帧分析和五步训练流水线（导出、去重、自动标注、训练、ONNX 导出）。 https://t.co/k9G9rjWQLV"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGfJhl-aIAE7oHR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2046856530298015931",
+    "fullText": "追踪 Claude Code 的 Token 消耗——把本地 JSONL 会话记录转成可看的图表，告诉你钱都花哪儿了。\n\nhttps://t.co/R8b2gtioHl\n\nToken Dashboard 是一个本地工具，读取 Claude Code 写入 ~/.claude/projects/ 的 JSONL https://t.co/FyZnRZO5IK"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13463,
+      "friendsCount": 630,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HGapIoCb0AAcEtj.mp4"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2046848980697726982",
+    "fullText": "macOS 应用要用户授权各种隐私权限，流程繁琐。这个库自动跳到系统设置对应页面，还弹出浮窗让用户拖进去授权，省得用户自己找。\n\nhttps://t.co/pZKTaCkkyQ\n\nPermissionFlow 是 macOS 权限引导库，分两块：一块做浮窗拖拽授权，一块做系统设置 deeplink。覆盖 8 个隐私面板，6 个能检测授权状态。 https://t.co/sOlGp98kGV"
+  }
+]
