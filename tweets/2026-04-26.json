@@ -1,11 +1,28 @@
 [
   {
     "user": {
+      "screenName": "NBA",
+      "name": "NBA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2048447447060643840/vYqdHIFq_normal.jpg",
+      "description": "NBA Playoffs presented by Google SUNDAY on ESPN/NBC/Peacock! 🍿1pm/et: CLE (2-1) TOR🍿3:30pm/et: SAS (2-1) POR🍿7pm/et: BOS (2-1) PHI🍿9:30pm/et: LAL (3-0) HOU",
+      "followersCount": 46416488,
+      "friendsCount": 2037,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2048452290197991424/vid/avc1/1920x1080/B5kW4m5TlmDbTfqW.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/NBA/status/2048452497396633761",
+    "fullText": "A pair of early slams for Scottie Barnes 😤\n\nBARNES IN 3 MIN: 6 PTS, 3-3 FGM\n\nStrong start for Toronto at home! https://t.co/8MaF4tTTNS"
+  },
+  {
+    "user": {
       "screenName": "elonmusk",
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239270738,
+      "followersCount": 239275951,
       "friendsCount": 1316,
       "location": ""
     },
@@ -20,7 +37,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150877,
+      "followersCount": 150880,
       "friendsCount": 4983,
       "location": "Remote"
     },
@@ -37,7 +54,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150877,
+      "followersCount": 150880,
       "friendsCount": 4983,
       "location": "Remote"
     },
@@ -67,7 +84,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150877,
+      "followersCount": 150880,
       "friendsCount": 4983,
       "location": "Remote"
     },
@@ -101,7 +118,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239270738,
+      "followersCount": 239275951,
       "friendsCount": 1316,
       "location": ""
     },
@@ -118,7 +135,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150877,
+      "followersCount": 150880,
       "friendsCount": 4983,
       "location": "Remote"
     },
@@ -133,7 +150,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150877,
+      "followersCount": 150880,
       "friendsCount": 4983,
       "location": "Remote"
     },
@@ -150,7 +167,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239270738,
+      "followersCount": 239275951,
       "friendsCount": 1316,
       "location": ""
     },
@@ -167,7 +184,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239270738,
+      "followersCount": 239275951,
       "friendsCount": 1316,
       "location": ""
     },
@@ -182,7 +199,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150877,
+      "followersCount": 150880,
       "friendsCount": 4983,
       "location": "Remote"
     },
@@ -197,7 +214,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239270738,
+      "followersCount": 239275951,
       "friendsCount": 1316,
       "location": ""
     },
@@ -214,7 +231,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150877,
+      "followersCount": 150880,
       "friendsCount": 4983,
       "location": "Remote"
     },
@@ -229,7 +246,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150877,
+      "followersCount": 150880,
       "friendsCount": 4983,
       "location": "Remote"
     },
@@ -246,7 +263,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239270738,
+      "followersCount": 239275951,
       "friendsCount": 1316,
       "location": ""
     },
@@ -263,7 +280,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239270738,
+      "followersCount": 239275951,
       "friendsCount": 1316,
       "location": ""
     },
@@ -297,7 +314,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150877,
+      "followersCount": 150880,
       "friendsCount": 4983,
       "location": "Remote"
     },
@@ -314,7 +331,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239270738,
+      "followersCount": 239275951,
       "friendsCount": 1316,
       "location": ""
     },
@@ -327,11 +344,26 @@
   },
   {
     "user": {
+      "screenName": "ComEd",
+      "name": "ComEd",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1489232687961452552/cgAG2NEg_normal.jpg",
+      "description": "Account not monitored 24/7. Report outages & emergencies 24/7 on our mobile app or https://t.co/Mur6TaMXpZ. We're here to help M-F, 9A-5P.",
+      "followersCount": 48705,
+      "friendsCount": 832,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ComEd/status/2047829302197010612",
+    "fullText": "We celebrated Arbor Day's 154th anniversary by partnering with @arborday and more than 50 local communities to plant trees that help beautify &amp; enhance green spaces. We also visited local schools to educate students about tree planting &amp; how our arborists manage vegetation. 🧵 ½"
+  },
+  {
+    "user": {
       "screenName": "elonmusk",
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239270738,
+      "followersCount": 239275951,
       "friendsCount": 1316,
       "location": ""
     },
