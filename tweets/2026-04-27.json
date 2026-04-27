@@ -1,11 +1,29 @@
 [
   {
     "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 76822,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG3r29KbYAAsJi3.jpg",
+      "https://pbs.twimg.com/media/HG3r29cbQAAj_lG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2048552744097837366",
+    "fullText": "现在 AI 编码工具越来越多，Claude Code、Codex、Gemini CLI 各有各的好。\n\n想让多个 AI 并发写代码、跑联调，却经常发愁找不到合适的调度工具。\n\nAwesome Agent Orchestrators 这份精选指南，正好填补了工具链选择上的空白。\n\n涵盖了能并行跑多个智能体的终端面板，以及深度融入日常工作流的个人 AI https://t.co/CsOEnuLjNi"
+  },
+  {
+    "user": {
       "screenName": "dingyi",
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150914,
+      "followersCount": 150919,
       "friendsCount": 4984,
       "location": "Remote"
     },
@@ -18,11 +36,43 @@
   },
   {
     "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 748417,
+      "friendsCount": 1254,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG2Nho1asAAObwa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2048449021749129701",
+    "fullText": "所以小红书是个什么样的平台🤡 https://t.co/0odCrhQNjU"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 748417,
+      "friendsCount": 1254,
+      "location": "有空翻翻👉"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2048446665573670940",
+    "fullText": "发中文推有万达弟弟\n\n英文推有吗🤡 试试看？"
+  },
+  {
+    "user": {
       "screenName": "elonmusk",
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239321059,
+      "followersCount": 239326554,
       "friendsCount": 1316,
       "location": ""
     },
@@ -37,7 +87,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150914,
+      "followersCount": 150919,
       "friendsCount": 4984,
       "location": "Remote"
     },
@@ -50,11 +100,43 @@
   },
   {
     "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 76822,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG1bpeyaEAAyOtJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2048394184181338173",
+    "fullText": "想要复现论文里案例，要在附录里找那些隐藏的超参数，或者对着含糊其辞的公式发呆。\n\n直接丢给大模型写代码，虽然能跑通，但分不清哪部分是原作者的意思，哪部分是 AI 凭空脑补的。\n\n最近在 GitHub 上找到 paper2code 这个专门解决复现痛点的开源项目。\n\nGitHub：https://t.co/mWEir4u78u https://t.co/3NlaS4t27l"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 748417,
+      "friendsCount": 1254,
+      "location": "有空翻翻👉"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2048388628787986722",
+    "fullText": "深圳干啥了？"
+  },
+  {
+    "user": {
       "screenName": "dingyi",
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150914,
+      "followersCount": 150919,
       "friendsCount": 4984,
       "location": "Remote"
     },
@@ -65,11 +147,113 @@
   },
   {
     "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 748417,
+      "friendsCount": 1254,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG1N9vsbYAAK7D_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2048379957043413321",
+    "fullText": "对方要求提交文件的扫描版，但你手头只有干净的电子文档？🥺\n\n为了满足这个格式要求，你往往需要先找个打印机打出来，然后再用扫描仪或手机扫回电脑里 https://t.co/QiuUBcWT5s"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 748417,
+      "friendsCount": 1254,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG0781xaMAAcUuE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2048359360422891628",
+    "fullText": "Huashu Design：一个 HTML-native 的设计 Skill\n\n专为 Claude Code、Cursor 等 AI 代码 Agent 打造\n\n一句话 Prompt → 几分钟出可交付的专业设计\n\n可以用于生成高保真 App/Web 原型、HTML 幻灯片、可编辑 PPTX、动画 MP4/GIF、信息图等等 https://t.co/Jog41i8j0n"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 76822,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG0rlk3bYAAGRq2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2048341338157187283",
+    "fullText": "想搞懂大语言模型内部到底怎么运作的，网上大部分资料过于学术或者太浅只讲概念，找一份既有数学推导又通俗易懂的教程真挺难的。\n\n无独有偶，最近看到 LLM Internals 这个系列教程，从分词原理一路讲到注意力机制再到推理优化，每个知识点都配了逐步数值示例。 https://t.co/6VAPasPu5N"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 748417,
+      "friendsCount": 1254,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG0nhJGboAEV50I.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2048337096776282222",
+    "fullText": "他家的服务器怎么都是12usd起步的\n\n想买个玩玩🪜的 便宜的年付都卖光了吗 https://t.co/TGCxadmnq8"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 76822,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG0JTjYaEAA4THL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2048303644865634377",
+    "fullText": "想把网页内容喂给 AI 处理，直接复制粘贴一堆广告、导航栏、脚本代码全混在里面，手动清理太费劲。\n\n最近看到 MD-This-Page 这个开源浏览器扩展，右键一点就能把网页转成干净的 Markdown 格式，专门为 AI 工作流设计的。\n\n只要按下 Alt+M https://t.co/mjGXFP44xB"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 76822,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGzZMd9a0AATZWE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2048250747889033716",
+    "fullText": "平时写项目引入各种第三方依赖，省事是省事，但背后的安全漏洞往往让人防不胜防。\n\n谷歌最近开源的 OSV-Scanner，正好能帮我们解决这个隐患。\n\n只需一条命令，直接扫描项目源码目录，快速找出不同语言和依赖包里隐藏的已知漏洞。\n\n不仅支持检测主流包管理器，连 Docker 容器镜像底层和 C/C++ https://t.co/oBJ5ALEflx"
+  },
+  {
+    "user": {
       "screenName": "dingyi",
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150914,
+      "followersCount": 150919,
       "friendsCount": 4984,
       "location": "Remote"
     },
@@ -82,11 +266,63 @@
   },
   {
     "user": {
+      "screenName": "linuxtoy",
+      "name": "LinuxTOY 🐧",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/67189755/l_normal.png",
+      "description": "于 2006 年创建，包括但不限于 Linux 新闻、应用及提示分享。自架服务：https://t.co/xyslSaC7TI / YouTube 频道：https://t.co/ZiD1IT3IG7",
+      "followersCount": 36718,
+      "friendsCount": 245,
+      "location": "Tuxland"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGyo3AeagAAgZLp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/linuxtoy/status/2048198388555084268",
+    "fullText": "easy vibe：一份易学易用、详尽扎实的 vibe 编程教程，包含零基础入门、初中级开发及高级开发等内容，教你一步步把想法变成产品。(https://t.co/2j5VMiJMWj） https://t.co/U0rxIR82OJ"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 76822,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGyiRWEawAA4Yyl.jpg",
+      "https://pbs.twimg.com/media/HGyiRWEaIAAiVMw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2048190357951963290",
+    "fullText": "在 GitHub 上看到 Learn Harness Engineering 这门开源课程，教我们给 AI 编程助手搭建一套可靠的工作环境。\n\n围绕 AI 构建指令、状态、验证、范围、会话五大机制，让每次任务都有据可查、可接续、可验证。\n\nGitHub：https://t.co/orsS2ldW0g\n\n课程包含 12 节理论课和 6 https://t.co/rv45pkdSU0"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 748417,
+      "friendsCount": 1254,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGwwf62a0AANfZb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2048066454361461157",
+    "fullText": "嫌 Wireshark 满屏的协议字段像天书？\n\nSniffnet 把本机网络连接、应用流量和远程主机信息做成可视化面板，让你像看系统仪表盘一样，直观了解电脑正在和谁通信、哪些程序正在占用带宽 https://t.co/91VhAfJaQT"
+  },
+  {
+    "user": {
       "screenName": "elonmusk",
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239321059,
+      "followersCount": 239326554,
       "friendsCount": 1316,
       "location": ""
     },
@@ -99,11 +335,28 @@
   },
   {
     "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 76822,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGwSD6SbsAAW_5n.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2048031796374421507",
+    "fullText": "以前想画技术架构图，得学 Mermaid 语法，还要在 https://t.co/MOMv2nhTOZ 里拖来拖去，想快速出一张好看的图相当麻烦。\n\n现在可以试下 fireworks-tech-graph 这个项目，用自然语言描述系统架构，就能直接生成可发布级别的技术图表。\n\n可作为 Claude Code 的技能插件安装，只需要简单说一句「画一个 https://t.co/yMsIj5DDHv"
+  },
+  {
+    "user": {
       "screenName": "dingyi",
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150914,
+      "followersCount": 150919,
       "friendsCount": 4984,
       "location": "Remote"
     },
@@ -118,7 +371,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150914,
+      "followersCount": 150919,
       "friendsCount": 4984,
       "location": "Remote"
     },
@@ -135,7 +388,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239321059,
+      "followersCount": 239326554,
       "friendsCount": 1316,
       "location": ""
     },
@@ -152,7 +405,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239321059,
+      "followersCount": 239326554,
       "friendsCount": 1316,
       "location": ""
     },
@@ -163,11 +416,29 @@
   },
   {
     "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 76822,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGvh_9AbsAEvoGT.jpg",
+      "https://pbs.twimg.com/media/HGvh_8_bsAA00UP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2047978952292274553",
+    "fullText": "准备 DevOps 或 SRE 面试，到处搜罗资料费时费力，也很难摸清大厂真正关心的技术细节。\n\n最近看到 devops-interview-questions 这个硬核题库，专门收录了五十多家头部科技公司的真实面试题。\n\n精心整理了上百道实战考题，全面覆盖 Kubernetes、Docker、Linux、网络和云服务等核心技术栈。 https://t.co/wbsdFYWU5y"
+  },
+  {
+    "user": {
       "screenName": "dingyi",
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 150914,
+      "followersCount": 150919,
       "friendsCount": 4984,
       "location": "Remote"
     },
@@ -178,11 +449,28 @@
   },
   {
     "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 76822,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGu_qF9aYAAEQTm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2047941193708040351",
+    "fullText": "在 GitHub 上看到一个开源的智能体编排工具  gnhf，全称「Good Night, Have Fun」，帮我们在睡觉时让 AI 自动打工。\n\n只需输入一句指令，就能唤起 Claude Code 或 Codex 等模型，进入全自动的代码迭代循环。\n\n每次成功修改都会自动生成独立的 Git 提交记录，保留清晰的工作轨迹。 https://t.co/lCLlObTp5h"
+  },
+  {
+    "user": {
       "screenName": "elonmusk",
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239321059,
+      "followersCount": 239326554,
       "friendsCount": 1316,
       "location": ""
     },
