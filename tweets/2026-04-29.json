@@ -1,11 +1,107 @@
 [
   {
     "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13673,
+      "friendsCount": 635,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHE_V_EboAAgnoa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2049489045424943355",
+    "fullText": "在任何运行 Ubuntu 的设备上部署一个 24/7 在线、配备真实浏览器的 Claude Code Agent，通过 Telegram 随时与 Agent 交互。\n\nhttps://t.co/3xX3Wttsuo\n\nBrowser Use Box 是一个开源项目，允许用户在任何运行 Ubuntu（≥2GB RAM）的设备（VPS、Mac mini、Raspberry Pi 等）上部署一个 24/7 https://t.co/dWYd1XPsJN"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 110989,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2049484226618384867",
+    "fullText": "好吧，快速过了一下错过的新闻：\n- GPT - 5.5 发布了。\n- DeepSeek-V4 也发布了。\n- 马拉松破二了！竹竿哥是有点说法的，作为贝克勒的接班人，结果这哥们在国际赛场疯狂收集了24个亚军，这次破二他还是亚军。🤣\n- 中国政府禁止Meta收购Manus"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13673,
+      "friendsCount": 635,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2049481705124511746/vid/avc1/1920x1080/6XTylOwq3EvP9uXU.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2049481871558640018",
+    "fullText": "一套 Arch Linux 桌面美化配置，组合 Hyprland、Quickshell 和 Waybar，并采用《尼尔：机械纪元》风格。喜欢 Linux rice 的用户可以参考它的视觉方案。\n\nhttps://t.co/heNPRHR9et https://t.co/dDw9ma1Iqk"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77146,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHE4akdbgAEE7n4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2049481346129748251",
+    "fullText": "每次在外面连公共 WiFi，都会被各种网页广告困扰，甚至还有可能 DNS 隐私泄露。\n\n偶然刷到一个仅 8MB 的单文件 DNS 开源工具：Numa，装上就能挡广告、给本地服务起名字，还不用依赖任何云服务。\n\n用 Rust 从零写的 DNS 解析器，自带缓存和 38 万条广告域名拦截，走到哪儿屏蔽到哪儿，笔记本随身携带。 https://t.co/pznbqxjdB9"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 110989,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2049465175976354025",
+    "fullText": "我回来了，打个时间戳。"
+  },
+  {
+    "user": {
+      "screenName": "sayemm72936",
+      "name": "Sayem Mahmud | eCommerce Google Ads",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2021483671568646147/a4m90KVm_normal.jpg",
+      "description": "Google Ads Expert | Generating Quality Leads & Increasing Sales | Optimization | eCommerce Google Ads",
+      "followersCount": 117,
+      "friendsCount": 633,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sayemm72936/status/2049447774626709518",
+    "fullText": "42x ROAS in e-commerce Google Ads? Rare—but 4–8x+ is achievable with the right Google Ads strategy. $2,240 → 56K+ purchases. Smart structure. Precise targeting. Constant optimization.\n\nVisit website to hire your next Google Ads expert and expand your business"
+  },
+  {
+    "user": {
       "screenName": "abskoop",
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749327,
+      "followersCount": 749322,
       "friendsCount": 1253,
       "location": "有空翻翻👉"
     },
@@ -22,7 +118,7 @@
       "name": "GitHubDaily",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
       "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
-      "followersCount": 77142,
+      "followersCount": 77146,
       "friendsCount": 201,
       "location": ""
     },
@@ -39,7 +135,7 @@
       "name": "GitHubDaily",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
       "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
-      "followersCount": 77142,
+      "followersCount": 77146,
       "friendsCount": 201,
       "location": ""
     },
@@ -52,11 +148,26 @@
   },
   {
     "user": {
+      "screenName": "moxt_ai",
+      "name": "Moxt",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2031939574344167424/nGM-AcBc_normal.jpg",
+      "description": "The Agent-Native Workspace. Building in public.",
+      "followersCount": 430,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/moxt_ai/status/2049382243143909526",
+    "fullText": "Let your AI agent move into your team. Reads your docs. Remembers last week. Works through the night. Picks up right where it left off."
+  },
+  {
+    "user": {
       "screenName": "GitHub_Daily",
       "name": "GitHubDaily",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
       "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
-      "followersCount": 77142,
+      "followersCount": 77146,
       "friendsCount": 201,
       "location": ""
     },
@@ -73,7 +184,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749327,
+      "followersCount": 749322,
       "friendsCount": 1253,
       "location": "有空翻翻👉"
     },
@@ -90,8 +201,8 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 151391,
-      "friendsCount": 4991,
+      "followersCount": 151402,
+      "friendsCount": 4992,
       "location": "Remote"
     },
     "images": [
@@ -107,7 +218,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749327,
+      "followersCount": 749322,
       "friendsCount": 1253,
       "location": "有空翻翻👉"
     },
@@ -124,7 +235,7 @@
       "name": "GitHubDaily",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
       "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
-      "followersCount": 77142,
+      "followersCount": 77146,
       "friendsCount": 201,
       "location": ""
     },
@@ -141,8 +252,8 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 151391,
-      "friendsCount": 4991,
+      "followersCount": 151402,
+      "friendsCount": 4992,
       "location": "Remote"
     },
     "images": [
@@ -194,7 +305,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749327,
+      "followersCount": 749322,
       "friendsCount": 1253,
       "location": "有空翻翻👉"
     },
@@ -209,7 +320,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749327,
+      "followersCount": 749322,
       "friendsCount": 1253,
       "location": "有空翻翻👉"
     },
@@ -226,7 +337,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749327,
+      "followersCount": 749322,
       "friendsCount": 1253,
       "location": "有空翻翻👉"
     },
@@ -260,7 +371,7 @@
       "name": "GitHubDaily",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
       "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
-      "followersCount": 77142,
+      "followersCount": 77146,
       "friendsCount": 201,
       "location": ""
     },
@@ -277,8 +388,8 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 151391,
-      "friendsCount": 4991,
+      "followersCount": 151402,
+      "friendsCount": 4992,
       "location": "Remote"
     },
     "images": [
@@ -294,7 +405,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749327,
+      "followersCount": 749322,
       "friendsCount": 1253,
       "location": "有空翻翻👉"
     },
@@ -311,7 +422,7 @@
       "name": "GitHubDaily",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
       "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
-      "followersCount": 77142,
+      "followersCount": 77146,
       "friendsCount": 201,
       "location": ""
     },
@@ -328,7 +439,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749327,
+      "followersCount": 749322,
       "friendsCount": 1253,
       "location": "有空翻翻👉"
     },
@@ -343,7 +454,7 @@
       "name": "GitHubDaily",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
       "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
-      "followersCount": 77142,
+      "followersCount": 77146,
       "friendsCount": 201,
       "location": ""
     },
@@ -360,8 +471,8 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 151391,
-      "friendsCount": 4991,
+      "followersCount": 151402,
+      "friendsCount": 4992,
       "location": "Remote"
     },
     "images": [
@@ -377,7 +488,7 @@
       "name": "GitHubDaily",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
       "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
-      "followersCount": 77142,
+      "followersCount": 77146,
       "friendsCount": 201,
       "location": ""
     },
@@ -394,7 +505,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749327,
+      "followersCount": 749322,
       "friendsCount": 1253,
       "location": "有空翻翻👉"
     },
@@ -412,7 +523,7 @@
       "name": "GitHubDaily",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
       "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
-      "followersCount": 77142,
+      "followersCount": 77146,
       "friendsCount": 201,
       "location": ""
     },
@@ -430,7 +541,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749327,
+      "followersCount": 749322,
       "friendsCount": 1253,
       "location": "有空翻翻👉"
     },
@@ -464,7 +575,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239626372,
+      "followersCount": 239632951,
       "friendsCount": 1319,
       "location": ""
     },
@@ -481,7 +592,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 239626372,
+      "followersCount": 239632951,
       "friendsCount": 1319,
       "location": ""
     },
