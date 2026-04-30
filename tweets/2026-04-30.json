@@ -1,0 +1,780 @@
+[
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13747,
+      "friendsCount": 637,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHFMvdeaIAAnpko.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2049676361032187980",
+    "fullText": "在命令行程序中绘制轻量级 ASCII 折线图，支持多系列、彩色、坐标轴和实时流式数据。\n\nhttps://t.co/emkpwye3gN\n\nasciigraph-rs 把 Go 版 asciigraph 完整搬到 Rust，终端里用纯字符就能画折线图。单系列多系列、ANSI 颜色、图例、X 轴刻度、自定义字符、NaN 断点、上下界、Y/X https://t.co/cHKerJgjUK"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13747,
+      "friendsCount": 637,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHFKyo6bUAA7sf9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2049665539811795196",
+    "fullText": "macOS 菜单栏快速追加笔记工具，一个快捷键就能把一行文字写入指定文件，无需切换应用或保存对话框。\n\nhttps://t.co/eBjClrb19c\n\n设定几个常用文件和快捷键后，按一下快捷键弹出输入框，写完回车就追加到文件末尾。支持追加、前置、追加后打开文件等操作，还有 Todo https://t.co/al1fc8TxsZ"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13747,
+      "friendsCount": 637,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHHc6mEboAAxR8K.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2049662308230853028",
+    "fullText": "柚子模拟器不是被干了吗 https://t.co/nvAZlMhrz6"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 111003,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHHYfxZbUAAckGV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2049658320978575529",
+    "fullText": "DeepSeek 官方精选收录操作指南，把 DeepSeek-V4-Pro/V4-Flash 模型接入各种 AI Agent 和编程辅助工具。\n\n涵盖了安装、配置和首次运行，包括 Claude Code、GitHub Copilot、OpenCode、Hermes 等十个工具的接入教程，附带 DeepSeek 平台和 API 文档入口。\n\nhttps://t.co/DdmQT6uiWq https://t.co/Qgn0BYOvnm"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13747,
+      "friendsCount": 637,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHFH0TlaEAA-DFy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2049649181896356057",
+    "fullText": "把 Anthropic Claude Code 的 11 个官方技能（代码审查、安全审查、功能开发、前端设计等）移植到 OpenCode，一行配置即可安装。\n\nhttps://t.co/8fml7JcRIz\n\nAnthropic 的 Claude Code 插件大部分靠 commands/ 和 agents/ 运行，这些 OpenCode 不认。这个项目把 11 个技能翻译成 OpenCode 能读的 https://t.co/S24lAbZB9G"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 151436,
+      "friendsCount": 4992,
+      "location": "Remote"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2049648150605123629",
+    "fullText": "2026年了，如果一个“人”突然积极回复你的每一条内容，只有一种可能：他用 AI 自动回复的。点进他主页一看，同一时间，同时回复了十几个人。\n\n上一次有人这么积极回复，还是因为爱情。。。"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 111003,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2049647856584364422",
+    "fullText": "Warp 终端现已开源\n\nhttps://t.co/uKblz656Xh"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77202,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHHIn5vaUAAwdKa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2049639900505686129",
+    "fullText": "做爬虫或者 AI 自动化，一个无头 Chrome 动不动就占两三百兆内存，启动多几个机器直接宕机。\n\n在 GitHub 上看到 Obscura 这个项目，用 Rust 写的无头浏览器引擎，专门为大规模抓取和 AI 智能体场景设计，轻量又快。\n\n单个实例只占 30MB 内存，页面加载 85 毫秒，启动几乎瞬间完成，同时兼容 Puppeteer https://t.co/0HRTJPtKwU"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13747,
+      "friendsCount": 637,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHFIFhGaoAAWLHX.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2049629804211929426",
+    "fullText": "在终端里展示 NASA 开放数据的实时仪表盘，包括世界地图、事件追踪、ISS 位置、小行星、太空天气等。\n\nhttps://t.co/N2BlldfTmn\n\n基于 Textual 和 Rich 的终端仪表盘，将 NASA 多个开放 API 的数据集成到一个界面中。Braille 点阵世界地图实时绘制自然灾害事件（火灾、风暴、地震、火山、洪水），ISS https://t.co/S5ZqO8N7jF"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13747,
+      "friendsCount": 637,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHFFYWRbkAAeUS9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2049616214742229360",
+    "fullText": "为 Hermes Agent 提供只读可观测性插件，将自主工作过程转化为可浏览的旅程地图和交叉点记录。\n\nhttps://t.co/KMdu3aXOzm\n\nHermes Labyrinth 是 Hermes Agent https://t.co/kHDgyxctnU"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13747,
+      "friendsCount": 637,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHFEheHaAAAIrIU.jpg",
+      "https://pbs.twimg.com/media/HHFElJqbYAAqUun.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2049600360021467399",
+    "fullText": "一个 conversation-first、image-first 的 PPT 工作流 skill，用来把一个模糊的 PPT 需求，逐步推进成：内容基底、风格预览、定稿规划，以及后续可执行的生成流程。\n\nhttps://t.co/VSx0DDbeUm https://t.co/17yANaBjxU"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 749361,
+      "friendsCount": 1253,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHF35JtawAApcQq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2049551436477042882",
+    "fullText": "新浪云服务2026年9月16日24时起下线并永久终止服务 https://t.co/am1aykAFWD"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 749361,
+      "friendsCount": 1253,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHFwFyHawAA0GEc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2049542558695776348",
+    "fullText": "香港证监会也入驻小红书了🫪 https://t.co/y2RShyKlaU"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13747,
+      "friendsCount": 637,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHFEN9pbAAEX4Sw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2049518822856839575",
+    "fullText": "把你电脑上已有的编码代理变成设计引擎——开源、本地运行，19 个 Skill + 71 个设计系统随你组合。\n\nhttps://t.co/trbdQ0GbCW\n\nOpen Design 是 Claude Design 的开源平替。它不自带代理——而是检测你电脑上已有的 CLI（Claude Code、Codex、Cursor 等），让它们当设计引擎，19 个 Skill 和 71 https://t.co/GS80yRWjd0"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 111003,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHFWX_TbcAA-w79.jpg",
+      "https://pbs.twimg.com/media/HHFWcapbsAAXrpE.jpg",
+      "https://pbs.twimg.com/media/HHFWlOkboAA2J-c.jpg",
+      "https://pbs.twimg.com/media/HHFWqE7bcAAo7Le.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2049515525991223344",
+    "fullText": "这台黑苹果配置拉满了，真香。显卡还是 RX 6800，无线网卡 BCM94360CD PCIe，AMD 的显卡和博通网卡，要装黑苹果这两个配件是永远绕不开的。 https://t.co/oGmO1zntI3"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13747,
+      "friendsCount": 637,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2049492751352561664/vid/avc1/1256x1080/UyQgwhGJwyphRaHc.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2049509008411599112",
+    "fullText": "定义一个\"输入主题、点击钻入、无限深入\"的图解说明器规范，不绑定技术栈，只要求绘画风格逐页一致。\n\nhttps://t.co/eYNkg1aCHO https://t.co/nPOXg3qTPI"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13747,
+      "friendsCount": 637,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2049498941918507177",
+    "fullText": "这个项目本质是逆向 ChatGPT Team 订阅的注册流程，靠抓包把 Stripe 支付、PayPal 授权、Codex OAuth 这些步骤跑通，然后用脚本自动化重放。\n🤫\nhttps://t.co/2B5i7rJpaE"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 111003,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHFFmgqboAA41i1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2049496649844846999",
+    "fullText": "一直用 Sub2APl，一是太占内存，小鸡是不要想了，部署在PVE上还可以。\n\n发现一个 Codex2API 项目，基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台。对外提供 OpenAI 风格的 chat/completions、responses、images 等接口，对内维护基于 Refresh Token 的账号池和 Access Token 生命周期。 https://t.co/6KlCyZf1tP"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13747,
+      "friendsCount": 637,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHE_V_EboAAgnoa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2049489045424943355",
+    "fullText": "在任何运行 Ubuntu 的设备上部署一个 24/7 在线、配备真实浏览器的 Claude Code Agent，通过 Telegram 随时与 Agent 交互。\n\nhttps://t.co/3xX3Wttsuo\n\nBrowser Use Box 是一个开源项目，允许用户在任何运行 Ubuntu（≥2GB RAM）的设备（VPS、Mac mini、Raspberry Pi 等）上部署一个 24/7 https://t.co/dWYd1XPsJN"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 111003,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2049484226618384867",
+    "fullText": "好吧，快速过了一下错过的新闻：\n- GPT - 5.5 发布了。\n- DeepSeek-V4 也发布了。\n- 马拉松破二了！竹竿哥是有点说法的，作为贝克勒的接班人，结果这哥们在国际赛场疯狂收集了24个亚军，这次破二他还是亚军。🤣\n- 中国政府禁止Meta收购Manus"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 13747,
+      "friendsCount": 637,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2049481705124511746/vid/avc1/1920x1080/6XTylOwq3EvP9uXU.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2049481871558640018",
+    "fullText": "一套 Arch Linux 桌面美化配置，组合 Hyprland、Quickshell 和 Waybar，并采用《尼尔：机械纪元》风格。喜欢 Linux rice 的用户可以参考它的视觉方案。\n\nhttps://t.co/heNPRHR9et https://t.co/dDw9ma1Iqk"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77202,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHE4akdbgAEE7n4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2049481346129748251",
+    "fullText": "每次在外面连公共 WiFi，都会被各种网页广告困扰，甚至还有可能 DNS 隐私泄露。\n\n偶然刷到一个仅 8MB 的单文件 DNS 开源工具：Numa，装上就能挡广告、给本地服务起名字，还不用依赖任何云服务。\n\n用 Rust 从零写的 DNS 解析器，自带缓存和 38 万条广告域名拦截，走到哪儿屏蔽到哪儿，笔记本随身携带。 https://t.co/pznbqxjdB9"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 111003,
+      "friendsCount": 510,
+      "location": "火星"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2049465175976354025",
+    "fullText": "我回来了，打个时间戳。"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 749361,
+      "friendsCount": 1253,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHEMiRRbQAAE2h1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2049434000637436049",
+    "fullText": "Aibijia：一个 AI 订阅服务的一键比价平台\n\n网站将多个卡网和中转商的 ChatGPT、Claude、Gemini、Grok 等 AI 服务账号价格聚合在一起\n\n方便用户快速对比不同渠道的价格 https://t.co/zxK9q8hwPo"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77202,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHEIXoKakAAg37r.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2049428515276345658",
+    "fullText": "每次开发 AI 应用，为了对比各大模型的价格、上下文限制和具体能力，总要在不同厂商的文档里来回翻找，费时费力。\n\n无意间看到，OpenCode 团队开源的 https://t.co/wHiwAZyVgP 项目，恰好帮我们解决了模型信息碎片化的麻烦。\n\n建立了一个全面的 AI https://t.co/6ST4QsJdWo"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77202,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHDmBBTaYAAeipZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2049390743459110924",
+    "fullText": "让 AI 帮我们查资料或者读源码，一旦关闭对话窗口，下次再问，AI 又得从头开始搜索阅读。\n\n今天看到 ascent-research 这个开源项目，能让 AI 的研究工作跨会话持续积累，而不是每次都从零开始。\n\n所有研究成果以纯文本文件保存在本地，下次继续时自动接上上回进度。\n\n支持从网页、本地代码库、Obsidian https://t.co/wHc0fOcqPA"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77202,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHC19exa4AAt4bI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2049337906427576606",
+    "fullText": "昨晚知名 AI 终端 Warp 宣布开源，一夜之间狂揽了 34000+ GitHub Star。\n\n随着这两年 Agent 的发展，Warp 也从一个终端工具，逐步演变为 Agent 化开发环境（ADE）。\n\n内置编码 Agent 开箱即用，支持接入 Claude Code、Codex、Gemini CLI 等外部 CLI Agent。\n\nGitHub：https://t.co/0oieCSSAd5 https://t.co/D5b8r73zlS"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 749361,
+      "friendsCount": 1253,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHC0evMbUAAIPCo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2049336280639820246",
+    "fullText": "这么严格🫪大疆失去了一个市场 https://t.co/skeFXBHnC9"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 151436,
+      "friendsCount": 4992,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHCzePwbwAAiSTL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2049335171066061234",
+    "fullText": "我就知道🤣🤣🤣 https://t.co/5y7t1X7N8B"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 749361,
+      "friendsCount": 1253,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHCv9dtaMAAg2QW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2049331308846080132",
+    "fullText": "Meta 火速答应 撤回了一个收购 https://t.co/UAH66siu2I"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77202,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHCa4B3aIAAZMBZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2049308126760124897",
+    "fullText": "想用 AI 生成音乐，Suno 和 Udio 每月要花几十美元订阅，生成的作品版权还受限，老是觉得不太值。\n\n偶然看到 ACE-Step UI 这个开源项目，媲美商业平台的本地音乐生成工作台，本地运行，完全免费。\n\n底层用开源音乐大模型 ACE-Step，能生成带人声和歌词的完整歌曲，最长超过 4 https://t.co/l4mJvP4Dzw"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 151436,
+      "friendsCount": 4992,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHBxHODbQAAwRR_.jpg",
+      "https://pbs.twimg.com/media/HHBxHZeacAAy1GK.jpg",
+      "https://pbs.twimg.com/media/HHBxHk2bcAAzkQs.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2049262138997534720/vid/avc1/720x1558/lR9FobsuA0FRWdhM.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/dingyi/status/2049262208241332358",
+    "fullText": "我去有人知道这是哪位大神设计的吗？@FateTell 应该是今年看到的设计最精美又好玩的 iOS app 了 ！算命 + AI 结合很有创意，细节打磨的也相当好。哪怕你对八字之前不感兴趣，我也建议下载一个把玩一下。看多了千篇一律 vibe 的产品，突然看到这个真的让人眼前一亮啊。\n\nhttps://t.co/p13V39pEre https://t.co/iiBIMDSb9X"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 749361,
+      "friendsCount": 1253,
+      "location": "有空翻翻👉"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2049148733716414834",
+    "fullText": "https://t.co/jXhtAAecfX"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 749361,
+      "friendsCount": 1253,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHAJwg7bYAEcGu2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2049148626300232168",
+    "fullText": "骗子 skill ：一个针对 Claude Code/OpenClaw 的 AI Agent Skill\n\n把诈骗话术套路蒸馏成 AI 知识库，用户粘贴一段可疑消息\n\n3秒返回骗局类型 + 当前处于第几阶段 + 骗子下一步会说什么 + 建议怎么应对 https://t.co/TJwKxeDhiM"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 749361,
+      "friendsCount": 1253,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG_2pTwaQAAyCRL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2049129537355887008",
+    "fullText": "现在玩 AI 自动化的玩家都有个共同痛点：用大白话写提示词，AI 出图的随机性太强了🥺\n\n今天跑出来是这个风格，明天换个词就面目全非，根本没法接入自动发文脚本或批量处理的工作流中\n\n其实是想解决一个问题：如何让 AI 出图更稳定，而不是每次都从头试提示词 https://t.co/CbiGF014Pg"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77202,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG_u1H-aMAAsz4W.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2049118966753485173",
+    "fullText": "想学习 AI 编程智能体的底层原理，但大厂的 Agent 代码动辄几万行，看源码根本无从下手。\n\n偶然看到 mini-cc 这个开源教学项目，用极简的代码复刻了主流 AI 编程助手的核心架构，很适合拿来学习。\n\n支持接入 DeepSeek、Qwen 等主流模型，清晰展示大模型如何自主调用工具、思考和反馈。 https://t.co/k0OgG8CU0q"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 151436,
+      "friendsCount": 4992,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG_Z_7laMAIWl9O.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2049096050158551248",
+    "fullText": "之前买过 ZenMux 速度还是挺快的， 算是 OpenRouter alternative 吧。咱也不是很懂，感觉既然能上 OpenCode 的第三方列表，说明还是比较正规和靠谱的吧？\n\n目前 DeepSeek V4 限时免费体验：https://t.co/qMfhmVWiTG https://t.co/5HITGEdeGC"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 749361,
+      "friendsCount": 1253,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG_YuSbaYAAgMhw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2049094656877821956",
+    "fullText": "大数据🥲越来越厉害了 https://t.co/Hl7q0Qzk7I"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77202,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG_TYiyaYAAcEKl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2049088784688619777",
+    "fullText": "用 Claude Code 或 Codex 同时跑几个项目，终端开一堆，还要来回编辑器，窗口多到有点头大。\n\n刚好看到一位开发者开源了 Nezha 这款桌面应用，专门为 Agent 优先的编程模式量身打造。\n\n直接内置原生 Claude Code 和 Codex，让多个 AI 助手能并行运行，不再需要排队等待。 https://t.co/tbmdPwD6In"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 749361,
+      "friendsCount": 1253,
+      "location": "有空翻翻👉"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2049087402103496725",
+    "fullText": "X现在在后台给用户大量扫描推文 ？\n\n给用户账号定位？"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77202,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG--y3VaIAAv1u4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2049066171115471023",
+    "fullText": "用 Gemini 生成的图片右下角总带着半透明水印，直接用又不太合适，手动裁剪去除效果也不好。\n\n于是找到 Gemini Watermark Remover 这个开源工具，一键无损去除 Gemini 生成图片的水印。\n\n没有使用容易出现画面崩坏的 AI 重绘，而是基于反向 Alpha 混合算法进行数学级的精准还原。 https://t.co/i7d5duGPoo"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 151436,
+      "friendsCount": 4992,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG-xQ4iaYAAVpfn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2049051261295878623",
+    "fullText": "国内银行大概是永远也不会有这种工具了。\n\nhttps://t.co/Cc4fbX9ZOD https://t.co/ENjR4BL8yj"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77202,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG-xDM5a0AA0sOl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2049051033889100269",
+    "fullText": "辅导孩子练习英语口语，找外教太贵，用 APP 大多数又要付费订阅开通会员。\n\n最近看到 HiKid 这个开源工具，专门给小朋友做的 AI 英语陪练，所有对话和语音处理都在本地完成，完全离线可用。\n\n孩子对着麦克风说英语就行，不用打字，AI https://t.co/CiNUfMlklZ"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 749361,
+      "friendsCount": 1253,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG-jyWjbwAA4uRe.jpg",
+      "https://pbs.twimg.com/media/HG-kzSmbwAEkc1z.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2049037733147148498",
+    "fullText": "大家访问网站遇到这样的弹窗不要点验证哈\n\n这个不是正常的人机验证\n\n属于常见的“假验证 / ClickFix”类钓鱼手法\n\n核心目的通常是诱导用户在终端执行一段恶意命令\n\n执行后可能会下载恶意脚本，窃取浏览器 Cookie、密码、钱包信息、SSH 密钥，或者给电脑装后门 https://t.co/tNMQWUFsMt"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77202,
+      "friendsCount": 201,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG-h4_QboAAePcK.jpg",
+      "https://pbs.twimg.com/media/HG-h4_RbYAAHm2Q.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2049034365582422303",
+    "fullText": "在 GitHub 上看到 DS2API 这个开源项目，能把 DeepSeek 网页端的对话能力转成标准 API 接口，直接对接各种开发工具。\n\n同时兼容 OpenAI、Claude 和 Gemini 三种主流 API 格式，现有的代码和工具基本不用改，换个地址就能用。\n\nGitHub：https://t.co/fFmeXZWHR7 https://t.co/AKcEdrkhvf"
+  },
+  {
+    "user": {
+      "screenName": "abskoop",
+      "name": "ahhhhfs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+      "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+      "followersCount": 749361,
+      "friendsCount": 1253,
+      "location": "有空翻翻👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HG98jUebAAAPhak.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/abskoop/status/2048993311231545770",
+    "fullText": "某海外上网工具扛不住封🔒\n\n停止中国区的业务了 \n\n果然上网门槛变高了 \n\n现在能上推的已经很厉害了 https://t.co/B5u77JU4dA"
+  }
+]
