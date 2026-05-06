@@ -1,0 +1,1108 @@
+[
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHe_bZjbQAAo2bG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051850436685283482",
+    "fullText": "为 AI 编码代理解决上下文窗口浪费问题，通过沙箱工具、会话连续性索引、脚本化分析和输出压缩四个方向，将上下文占用削减 98%。\n\nhttps://t.co/g5SVKKZcbf\n\nContext Mode 是个 MCP 服务器，专治编码代理上下文浪费。沙箱把工具原始输出挡在外面，315 KB 变 5.4 KB，砍了 98%。会话历史全存 SQLite + https://t.co/s9JpUqwuYJ"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHdnDMDb0AA1-wY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051840622190072296",
+    "fullText": "把 Mac 上的屏幕录制转成 App Store 能直接接收的预览视频格式。\n\nhttps://t.co/9NVhkQbAWj\n\nvideo-preview-appstore 是一个 macOS SwiftUI 工具，把 QuickTime 录制的 .mov 文件转成符合 App Store Connect 预览规格的 .mp4。内置 ffmpeg/ffprobe 脚本处理编码：输出控制在 15–30 秒时长窗口，H.264 https://t.co/fHu4ceJvaB"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 151636,
+      "friendsCount": 5002,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHmQHYlaoAEHKGy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2051829563601441078",
+    "fullText": "我还以为理想汽车开始搞 AI 了。 https://t.co/xS6XvglBwF"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHdMosaaAAAnqSI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051826529089573023",
+    "fullText": "macOS 原生桌面端 S3 对象存储浏览器，替代 CLI 和网页控制台来管理 AWS S3、Cloudflare R2 及其他 S3 兼容存储桶中的文件。\n\nhttps://t.co/c78YK7kv0b\n\nBucketDock 用 Tauri 2 + Next.js 搭了一个 macOS 原生桌面应用，专门浏览和管理 S3 兼容对象存储。前端不直接连 S3，所有操作走 Tauri 命令桥让 https://t.co/q7F2SgpjuZ"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77819,
+      "friendsCount": 202,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHmCKuWaEAAxv3s.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2051814232514289852",
+    "fullText": "搞数据抓取或是管理多个账号时，现在的网站指纹检测越来越严，普通的隐身模式根本不够用，账号动不动就被关联封禁。\n\n最近看到 undetectable-fingerprint-browser 这个开源项目，是一款可编程的反检测浏览器，指纹伪装做得相当全面。\n\n它能同时伪装 https://t.co/otv3DuCWdo"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHc69clagAABISa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051807151610601524",
+    "fullText": "映射任意 GitHub 仓库的结构，发现高风险依赖、重复代码和未测试热点。\n\nhttps://t.co/azNGy4L4Xm\n\n粘贴 GitHub URL，GitVision 在 20 秒内给出分析结果：改这个文件会牵连哪些模块（爆炸半径）、哪些函数是结构重复、哪些复杂代码没有测试。它用 tree-sitter 做 AST 解析，跑出 17 个确定性指标，再让 https://t.co/GL6cd2YxDa"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 151636,
+      "friendsCount": 5002,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHl0dnqaAAAruHB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2051799161943765487",
+    "fullText": "这个好啊，专为 Codex 桌面应用 设计的插件/补丁系统。\n\nhttps://t.co/MaXlqlUS6Z https://t.co/diG6zz82wu"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051793813375520925",
+    "fullText": "一个用 Rust 写的自托管 AI agent，能自己学习技能、记住偏好，支持 Telegram/Discord 等多平台接入和定时任务。\n\nhttps://t.co/1Q8mU3pgSD\n\nRust 写的 AI agent 运行时，编译出来不到 10MB，冷启动 20ms 以内。TUI、Telegram、Discord、Slack、Matrix、LINE、HTTP"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHdc6QSbQAA7sxX.jpg",
+      "https://pbs.twimg.com/media/HHddk5vbMAAuaMg.jpg",
+      "https://pbs.twimg.com/media/HHddlwubAAAnGZG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051694660343758942",
+    "fullText": "为 Traefik 反向代理提供自托管 Web 管理界面，免去手编 YAML 的麻烦\n\nhttps://t.co/jjdUsmXgwI\n\nTraefik Manager 给 Traefik 加了个 Web 界面，路由、中间件、服务都能在浏览器里增删改，不用碰 YAML。仪表盘实时显示路由数和服务健康；可选拓扑图把入口→路由→中间件→服务串起来画连线。 https://t.co/kvAW1LRdVG"
+  },
+  {
+    "user": {
+      "screenName": "wander",
+      "name": "Wander",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1963629326244745220/ehf-U3Dq_normal.jpg",
+      "description": "Never book a bad vacation home again. Every Wander comes with hotel-grade amenities, inspiring views, pristine cleaning and 24/7 concierge service.",
+      "followersCount": 19280,
+      "friendsCount": 650,
+      "location": "Find your happy place ®"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2051685967866777600/vid/avc1/3840x2160/wlZ6vHaDE8WqAru2.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/wander/status/2051689854589956190",
+    "fullText": "Today, Wander turns 5 years old.🎉\n\nTo celebrate you helping us make it here, we’re giving away a free trip to one of our 5 original properties.\n\nTo enter, simply reshare this post and tag the person you’d want to go on an adventure with in the replies. https://t.co/TkF7myxoWA"
+  },
+  {
+    "user": {
+      "screenName": "momsforamerica",
+      "name": "Moms for America",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1740060921349951488/ogAGXt6U_normal.jpg",
+      "description": "Banned and now we are back!\n\nOur three-fold mission is to empower moms to promote liberty and raise patriots to heal America from the inside out.",
+      "followersCount": 11709,
+      "friendsCount": 532,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2051688970354892800/vid/avc1/1280x720/4VXOlq-kOzZQprE4.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/momsforamerica/status/2051689281748422997",
+    "fullText": "More Than Diapers: One Mom's Stand for Life\nWhen Sarah Gabel Siefert discovered that every major diaper brand supported abortion, she didn't just switch brands — she built one. As a mom, wife, and CEO, Sarah co-founded EveryLife, which has become the fastest-growing diaper https://t.co/fsyQE8TETe"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHcK44facAAXtdH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051683839106297912",
+    "fullText": "在 macOS 菜单栏和终端中实时展示你所关心的 GitHub 仓库状态——CI、Issues、PR、Release 一目了然，不用开浏览器。\n\nhttps://t.co/0PouAtN91H\n\nRepoBar 是 macOS 菜单栏原生应用，盯着多个仓库动态不用来回刷浏览器。仓库卡片直接显示 issue、PR 数、star、fork、近期活动，CI https://t.co/bLI3Z2PPEs"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HHdaGmoa4AI-LuQ.mp4"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2051678555096981805",
+    "fullText": "把 Markdown 文件变成本地知识库——给笔记加 YAML id 建身份、用 wikilinks 连关系、用 !view 查出可编辑表格\n\nhttps://t.co/L2ftOR5kHo\n\nYamlink 是个 VS Code 扩展，让普通 Markdown 笔记拥有稳定 id 和 wikilinks 图谱。YAML frontmatter 直接当结构化数据用，!view 语法能查 https://t.co/cYdOexyoZ9"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHcKGKlbIAAbZM2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051671508003754384",
+    "fullText": "给 Claude 级别 agent 做的桌面+无头工作区——把 MCP、REST API、技能、自动化调度串在一起，多 provider LLM 协作不再是散装拼凑。\n\nhttps://t.co/WOcAQzLiaT\n\n基于 Claude Agent SDK 和 Pi SDK 的开源桌面应用。多会话收件箱管理对话状态；MCP 和 OpenAPI https://t.co/ckSjDV0TCw"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2051501362886914048/vid/avc1/574x360/wqxnJTqrebnZyIvy.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2051663706573201629",
+    "fullText": "macOS 上用键盘切窗口的工具，比系统默认 ⌘-Tab 更灵活，跨 Space、按最近使用排序，还能在同应用内快速跳转。\n\nhttps://t.co/gdcvX8lwyF\n\nSwitch 是个 macOS 窗口切换器，Swift 写的，苹果公证过。⌘-Tab 按最近使用顺序切所有窗口，跨 Space 也能用；⌥-` https://t.co/KcrkRKEe26"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 151636,
+      "friendsCount": 5002,
+      "location": "Remote"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2051656412745679074",
+    "fullText": "最新版的微信输入法 Mac 的语音输入超级快了，比豆包的好用多了，拼音打字方面也是遥遥领先。真的没必要花钱给 Typeless 那些玩意了。"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77819,
+      "friendsCount": 202,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHjx_NobMAAg9cO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2051655710128357561",
+    "fullText": "用 AI 生成出来的前端界面，要么千篇一律，要么细节粗糙，做不出真正能打的设计。\n\nGitHub 上 Awesome AI Tools for UI 这份精选合集，专门收录帮 AI 提升界面审美和设计水准的工具。\n\nGitHub：https://t.co/KqXbGx2qZH\n\n目前共收录 26 个工具，分成 Skills、Apps、MCP Servers、Design https://t.co/NwRCD99E8f"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHY_WZeagAABOyl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051654897964306661",
+    "fullText": "一个 AI 驱动的 CLI 工具，自动分析 Git 仓库状态并生成上下文简报，帮你快速回忆上次工作进度。\n\nhttps://t.co/4xU9qmc4MO\n\ngit-rewind 抓取你的分支、提交记录和未提交改动，丢给 LLM 生成一段简报，省得你自己翻 log 回忆上下文。 https://t.co/x0xTPZbMTI"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 111200,
+      "friendsCount": 514,
+      "location": "火星"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2051652365925916672/vid/avc1/3456x1944/hOed6Nc8COOuRnq8.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/geekbb/status/2051652549938389311",
+    "fullText": "在 MacBook 刘海区域实时显示 Claude Code 和 Codex 的 API 用量限额。\n\n展示 Claude Code 和 Codex 的 5 小时及每周用量限额。悬停可快速查看百分比，点击展开完整面板，支持在 Usage 和 Cost 之间滑动切换，Cost 屏基于本地会话日志估算花费和 token 吞吐量。\n\nhttps://t.co/CBQCHozoAo https://t.co/ftGPdGqUyH"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051645586684968969",
+    "fullText": "🧠 如何训练你的GPT\n一份从零开始构建现代大语言模型的交互式教材，逐行注释代码并用通俗类比解释每个组件。\n\nhttps://t.co/OOsmiCoUbp\n\n12章3671行，带你从零搭一个 LLaMA 3 风格的Transformer。BPE"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 240004421,
+      "friendsCount": 1323,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2050590568015704064/vid/avc1/1920x1080/mQGV623byZWhVSU1.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2051643823265370217",
+    "fullText": "Try Tesla, Starlink &amp; auto-translation on 𝕏 https://t.co/enxwcUXrCh"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 240004421,
+      "friendsCount": 1323,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2051303985827524608/vid/avc1/2160x3218/_TDQ5k597rrbUkB6.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2051641477684666801",
+    "fullText": "https://t.co/sgAh2tlJUX"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHZBUxjbMAAU1oc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051638540761522281",
+    "fullText": "一个本地优先的桌面项目管理工具，面向小团队，用看板流程做计划，不依赖云端。\n\nhttps://t.co/PszdrXPcxq\n\nWorklog 用 Workspace → Board → Ticket 三层结构管任务，看板、表格、时间线、命令面板都有，主打键盘操作。数据存本地 SQLite，断网照样用，想同步就开 Git Auto-Sync 往私有仓库推。Tauri https://t.co/RxypRsxpzC"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051630487282565428",
+    "fullText": "将技术书籍（PDF/EPUB）转化为 Claude Code 可加载的结构化 skill，让书中框架和知识点在工作时按需调用。\n\nhttps://t.co/kNsS70Bc3K\n\nbook-to-skill 是一个 Claude Code skill，能把技术书籍的 PDF 或 EPUB 自动提取并生成结构化 skill 文件，包括按章节加载的摘要、术语表、设计模式速查表。"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 111200,
+      "friendsCount": 514,
+      "location": "火星"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHjVlyfa8AADBRk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2051624506872225936",
+    "fullText": "这张壁纸真好看 https://t.co/zrgteMotKE"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHY4usubQAAqjGS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051623944298664336",
+    "fullText": "跨平台剪贴板管理器，支持 Mac/Windows/Linux，并能与 Android/iOS 同步剪贴板历史。\n\nhttps://t.co/gNnudWOYOz\n\nclipmon 是一个剪贴板管理器，Mac 版已经稳定。它会自动记录你复制过的所有内容，支持模糊搜索、Markdown https://t.co/5EOfxjfXS4"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2051621326536978432/vid/avc1/1920x1080/8wVp1Whc7igvmoVY.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2051621727357342047",
+    "fullText": "3D 打印的蛋仔 Q6 加特林 cool🗜️ https://t.co/bDJMPFsiEt"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051617912402985386",
+    "fullText": "给偏远地区学生一个不直接给答案、而是反复追问让他们自己想明白的 AI 学习工具，同时帮老师看清每个学生卡在哪里、该怎么教。\n\nhttps://t.co/37IpIIv9EH\n\n一个基于 FastAPI 的 K12 教育平台，用两个 AI Agent"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HHcDxYkaMAAIa74.mp4"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2051610606843601075",
+    "fullText": "提供一个极简、开箱即用的视频世界模型训练框架，基于 diffusion-forcing 实现，涵盖训练、评估和下游应用全流程。\n\nhttps://t.co/5yOxnqjMKc\n\nNano World Model 专门做视频世界模型研究，用的是 diffusion-forcing 方法。克隆下来几分钟就能跑出第一个 rollout，依赖不多，配置全靠 Hydra https://t.co/EoJqtNO7Tb"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77819,
+      "friendsCount": 202,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHjB457a8AATr8F.jpg",
+      "https://pbs.twimg.com/media/HHjB46MaIAA6Thf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2051602881229549943",
+    "fullText": "做内容自媒体一般都会管理多个平台账号，常常被 SaaS 按席位或账号收费搞得心累。\n\n最近发现 BrightBean Studio 这个开源项目，自托管的社媒管理平台。\n\n对标 Sendible、SocialPilot 等付费工具，没有账号数、席位数和工作区限制。\n\nGitHub：https://t.co/8mgDM3SgX2\n\n支持 https://t.co/vUqgWtvQoY"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2051488659711651840/vid/avc1/1000x650/Czd9maa0ZtQJq0MZ.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2051600288423756268",
+    "fullText": "在 macOS 上实现类似 Niri 的键盘驱动式窗口管理器，通过 Accessibility API 平铺窗口并支持工作区/列导航。\n\nhttps://t.co/8yr2m2pSTU\n\nmiri 是 macOS 上一个键盘优先的窗口管理器，模仿 Niri 的虚拟布局，通过 Accessibility API https://t.co/l4XH1PFng4"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 151636,
+      "friendsCount": 5002,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHi9q7pbMAAiH-B.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2051598182812172336",
+    "fullText": "2026 年最大的 AI slop，满屏都是 Claude 风格的设计 🤮 https://t.co/IwX0bOhHLD"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHaE9kjbEAAzdW2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051591983685353558",
+    "fullText": "开源桌面录屏编辑器，自动加缩放、光标美化、风格边框和摄像头叠加，录完直接出精修视频，不用再找人剪辑。\n\nhttps://t.co/DQ3c6AsbHB\n\nRecordly https://t.co/Aa3H1tkiCd"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHaCHN4asAEXgvA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051577890731651279",
+    "fullText": "在命令行里收发邮件，不用切换到浏览器或其他 GUI 客户端\n\nhttps://t.co/RsmpXm70E1\n\nMatcha 是基于 Go 和 Bubble Tea 框架的终端邮件客户端，界面好看，功能齐全。多账户管理、富文本渲染、PGP 加密、日历都有。社区插件市场 35+ 个插件可装，内置 AI 重写能调用 OpenAI、Ollama https://t.co/HmRez0RVN5"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2051572006467059712/vid/avc1/1080x1920/uh4NQsuaDUAywJd7.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2051572121239994658",
+    "fullText": "这才叫海市蜃楼🤯 https://t.co/iA2BUr6VLL"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHZ-F-Wa8AArVPB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051569334414151982",
+    "fullText": "为 Windows 版 Claude Desktop 提供完整的中文界面翻译和一键安装补丁\n\nhttps://t.co/dEoT4LJpqV\n\nWindows 版 Claude Desktop 的中文翻译项目，12700+ 条翻译覆盖桌面菜单、前端界面和功能描述。交互式 PowerShell 脚本自动检测安装路径，写入 JSON 资源和语言白名单补丁，不动官方安装目录。还做了 JS https://t.co/H0nHvwH5We"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77819,
+      "friendsCount": 202,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHifjrca4AAuhbd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2051565075614589385",
+    "fullText": "平时用 Claude Code 处理事情，每次开新会话都得重新解释一遍背景，Obsidian 里堆了几百个笔记，也只是静静躺着，两边完全没打通。\n\n最近在 GitHub 发现 obsidian-second-brain 这个项目，把 Obsidian 仓库变成一个会自我重写的 AI 第二大脑，作为 Claude Code 的 Skill 来使用。\n\n灵感来自 Karpathy https://t.co/JtsUUwgYZs"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051556751258927587",
+    "fullText": "并行调度批量 API 任务，自动选最优 worker 数和间隔，用贵模型规划、便宜模型干活，砍掉六七成成本。\n\nhttps://t.co/T9CMmSIZM1\n\nDeepSwarm 2.0 是 Hermes 的一个并行调度技能，跑任意批量任务时自动起 N 个 worker"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051553228064711134",
+    "fullText": "为 AI 工程师提供从零到生产级 AI 系统的完整学习路线图，涵盖17个阶段和51个项目\n\nhttps://t.co/75zhVYDkXS\n\n这份路线图把AI工程师要学的东西从头排到尾：Python和数学打底，然后是深度学习、Transformer、LLM"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHiESWnbgAALCXs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051544923388928372",
+    "fullText": "在 macOS 上做一个屏幕共享和录制完全看不到的 AI 聊天窗口，方便视频会议和面试时悄悄用 AI。\n\nhttps://t.co/YOHujjcKs4\n\n其他所有Cluely替代品都是基于Electron或Tauri构建的——这意味着捆绑了Chromium浏览器，仅仅打开就需要200–500MB内存，启动时间较慢。\n\nGhostbar 用原生 Swift/AppKit https://t.co/poF5vdrUrd"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 240004421,
+      "friendsCount": 1323,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2051496792454492160/vid/avc1/1920x1080/3ZdGmFaesmpTdQSa.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/elonmusk/status/2051544857974620481",
+    "fullText": "Beautiful machines in space  https://t.co/Zx6nYpzAM1"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051537373918630176",
+    "fullText": "在 Codex++ 右侧面板中嵌入一个无头 iOS 模拟器镜像标签页，支持触控、滑动和硬件按钮转发。\n\nhttps://t.co/Rkgb2nVKsn\n\n给 Codex++ 写了个 tweak，右侧 + 菜单多了个 \"iOS Simulator\" 选项，点进去直接镜像模拟器画面。用 MutationObserver 注入标签页，不改 Codex"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHdQYxaakAAcNbW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051528817269772632",
+    "fullText": "让 AI 编程代理用自然语言描述来生成 React 幻灯片演示文稿，提供画布、缩放、导航、热重载和演示模式等运行时支持。\n\nhttps://t.co/sll5zio3sH\n\nopen-slide 是给 AI 代理做的幻灯片框架，页面全部在 1920×1080 画布上渲染，用的是自由 React 组件而不是受限 DSL。\n\n自带 /create-slide 和 https://t.co/yVQn07W5nJ"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHZ7-akboAAJNwa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051521771002552382",
+    "fullText": "提供一套用 AI（GPT Images 2.0 + Seedance 2.0）生成一致性游戏角色精灵图和行走循环的完整提示词模板与参考图像流水线\n\nhttps://t.co/7Ai63t3hIp https://t.co/UoXNxw96BK"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77819,
+      "friendsCount": 202,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHh0FhLbMAA_Tq3.jpg",
+      "https://pbs.twimg.com/media/HHh0HNAbkAALGIA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2051517304543105279",
+    "fullText": "让 AI 写研究报告或整理资料，输出的排版总是干巴巴的默认样式，看着毫无阅读欲望。\n\n偶然看到 Kami 这个项目，给 AI 加了一套文档设计系统，生成的文档像精心排版过的印刷品了。\n\n名字取自日语「紙」，核心思路是用一套约束规则管住 AI 的排版，暖色羊皮纸底色搭配墨蓝色调，出来的页面干净又有质感。 https://t.co/Ha1ljBAHYD"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051512210166567216",
+    "fullText": "单进程自托管服务器监控面板，聚合节点在线率、指标历史、流量统计和告警。\n\nhttps://t.co/kArFVwj6zp\n\nIthiltir Dash 是自托管的服务器监控面板，一个进程就把 Web 界面、API、主题、安装脚本和节点下载全包了。它能看节点在线率和历史指标，支持 PVE/Proxmox VE 主机，做了 RAID"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 111200,
+      "friendsCount": 514,
+      "location": "火星"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHht_mYbMAAkPzT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2051510916005712019",
+    "fullText": "又一个开源密码管理器 \n\nMonica 是一个聚合 Bitwarden 与 KeePass 的本地密码库（Local Vault）。 以本地存储优先为核心，帮助你在 Android 与浏览器端统一管理账号密码、2FA、私密笔记与敏感附件。\n\nhttps://t.co/Luta2X46QL https://t.co/EhK6WIoMaO"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHZ6497aMAAk4qJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051505161915236634",
+    "fullText": "有点意思，把图片变成像素网格和 ESP32 手柄脚本，让 Switch 游戏里的画板自动帮你画图。\n\nhttps://t.co/tuOFyujGgw\n\nFriend Maker 搭了一整套从图片到 Switch 自动绘图的链路：图片进来后做像素化和量化，规划路径生成指令脚本，再通过串口发给 ESP32，ESP32 模拟 Switch Pro Controller https://t.co/NuzWD72KdD"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 111200,
+      "friendsCount": 514,
+      "location": "火星"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2051499735090147418",
+    "fullText": "Kagi Session2API MCP Server\n\n免费 Kagi 搜索 MCP 服务器 — 会话令牌，无需 API Key\n\nhttps://t.co/AOKLVIgnLK"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 151636,
+      "friendsCount": 5002,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHhfnKKaUAAcmU2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2051495378797891614",
+    "fullText": "我算看明白了，不管是搞翻墙的还是搞 AI 的，都在疯抢服务器和 GPU。便宜的套餐他们看不上，最贵的套餐基本都被抢光了。 https://t.co/TcHim5ldt8"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHZ6EEXbwAABj8w.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051489307161239567",
+    "fullText": "管理 Codex Desktop/CLI 会话、跨设备导入导出、同步 Skills、修复 Desktop 可见性，并把 Bundle 工作区同步到独立 GitHub 仓库\n\nhttps://t.co/EEOsr6QP9B\n\n这是一个 Codex 会话管理工具，TUI 交互为主，CLI 可批处理。浏览、导出、导入、同步、修复五个功能域都走本地 Bundle 中转，不碰 ~/.codex/ https://t.co/soTVA6Sjtf"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHdWPtKa4AAKbo7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051482260613038505",
+    "fullText": "从壁纸提取颜色方案，生成多种风格变体，一键应用到桌面各组件。\n\nhttps://t.co/Fo2dgrU64o\n\nColorice 是 pywal 的升级版，用 Oklab 色彩空间做颜色提取，感知上更准确。提取主色后生成 vibrant、muted、warm、cool 四种风格供你选择，确保对比度达标，再通过兼容 pywal 的模板引擎一键应用到 https://t.co/FOEHy1zfTh"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHZ2YXwaYAAL_Pw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051473956104757423",
+    "fullText": "本地优先的多语言静态安全扫描器，支持跨文件污点追踪和浏览器 UI 分类，无需云服务和账号。\n\nhttps://t.co/H53M2OxU0P\n\nNyx 用 Rust 写成，通过 tree-sitter 解析 10 种语言后跑跨文件污点分析，结果在一个绑定 127.0.0.1 的 React https://t.co/YxeHR9HVlV"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHYRlIaawAE-Z82.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051465149358481634",
+    "fullText": "教你如何为 AI 代理系统设计、结构和复用技能（Skills），把重复指令封装成可自动调用的能力单元。\n\nhttps://t.co/Bvh2Xn6BGv\n\n这是一份 Claude Code Agent Skills https://t.co/kbQVimicf6"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/HHg0svpbEAAPp_7.mp4"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2051459360442687612",
+    "fullText": "飞猪 FlyAI 是一个面向 AI 编码代理的旅行搜索技能插件，对接飞猪平台的旅行数据。让用户在 AI 编码代理（Claude Code、OpenClaw 等）中直接用自然语言搜索和比较航班、酒店、景点、火车票等旅行产品，无需离开终端。\n\nhttps://t.co/svO6H4K4BS https://t.co/T8HBZikuow"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051452061758419083",
+    "fullText": "审计第三方 AI API 中转/反代服务是否存在隐藏的 prompt 注入、prompt 泄漏、指令覆盖和上下文截断等安全风险\n\nhttps://t.co/MURNkz9AIg\n\n本地跑 13 步审计，查你用的 AI API 中转/反代有没有偷偷注入 prompt、截断上下文、篡改工具调用。涵盖 prompt"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77819,
+      "friendsCount": 202,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHg4kfJbQAAL4cA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2051451837442887882",
+    "fullText": "下载 BT 种子，不少朋友用的客户端，界面臃肿不说，还带大量广告，更离谱的还有偷偷捆绑安装软件。\n\n最近找到 qBittorrent 这个开源 BT 下载工具，干净无广告，功能齐全，用着很省心。\n\n界面风格和经典 BT 客户端类似，上手没什么门槛，下载速度稳定，对中文和各种特殊字符支持也很好。 https://t.co/MfDmY7E3h8"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2051446494587424768/vid/avc1/1080x1920/wTBo_TnGCLKbXhvb.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2051446656319820031",
+    "fullText": "慢动作👀 https://t.co/XBh7KcDbUM"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHY9GkxbsAAunDw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051439730487660927",
+    "fullText": "在 Cloudflare Workers 上自托管一个带 AI 代理的完整邮件客户端，实现收发邮件和智能回复草稿。\n\nhttps://t.co/Lj3ZFMMZv9\n\nAgentic Inbox 跑在 Cloudflare Workers 上，不依赖外部服务器。邮件通过 Email Routing 收进来，每个邮箱有自己的 Durable Object 和 SQLite 数据库，附件存 R2。AI https://t.co/sntOKXNJRQ"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 151636,
+      "friendsCount": 5002,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHgq42pbQAAC7aj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2051436789949489611",
+    "fullText": "43 years. 154 Macs since 1983.\n\nhttps://t.co/jZCkUVsy98 https://t.co/jof0FZEELE"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHYO8r4aoAAtof2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051432182208750042",
+    "fullText": "把 Laravel 应用的请求生命周期画成交互式节点图，一眼看清路由、控制器、服务、模型之间的调用链路。\n\nhttps://t.co/A81PypzNyn\n\nLaravel Brain 是一个 Laravel https://t.co/9M3LSLCbqe"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "Ding",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
+      "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
+      "followersCount": 151636,
+      "friendsCount": 5002,
+      "location": "Remote"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHfLAttbEAAkgRu.jpg",
+      "https://pbs.twimg.com/media/HHfLBHCbcAE7i2O.jpg",
+      "https://pbs.twimg.com/media/HHfLBPwaEAAx4Sx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/2051331731303911829",
+    "fullText": "买了 8BitDo 用来 vibe coding + 打游戏，同样的东西国内 499 元，出海后 499 美金。😅\n\nhttps://t.co/kniYU9TAhV https://t.co/m657hcwc8I"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHcfow8aAAAtcF6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051330762230690117",
+    "fullText": "macOS 菜单栏工具，盯着你的 Claude AI 用量额度，还能看正在跑的编码会话。\n\nhttps://t.co/FM9yGTVk6q\n\nTokenEater 是个原生 macOS 菜单栏应用，加上桌面小组件和浮动窗口，实时跟踪 Claude AI 的用量。弹出式仪表盘有三种布局可选，历史记录直接读 Claude Code 本地的 JSONL 日志，能按 https://t.co/4cNn4KWgu1"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2050832638701973504/vid/avc1/1360x1038/XMuy_JNGQ97CroXl.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2051321199418868117",
+    "fullText": "不开 Simulator .app，用命令行或浏览器远程管 iOS 模拟器、点按滑动全搞定。\n\nhttps://t.co/bmLYAzftuD\n\nbaguette 是个 Swift 写的无头 iOS 模拟器管理器，针对 iOS 26。一个 CLI 就能建、启、停模拟器，60 fps 推屏（MPEG 或 H.264 都行），靠 Xcode 26 的 SimulatorKit https://t.co/gDGeRVtovE"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHYC1H7aoAAJ12G.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051314153801892240",
+    "fullText": "在浏览器和 Node.js 中实现 70-80 年代风格的并行共振峰语音合成，通过 ARPABET 音素字符串直接生成语音\n\nhttps://t.co/Y9U7vYSNkQ\n\nklattsch 是个并行共振峰语音合成器，跑在浏览器和 Node 里，声音风格对标 Votrax、SAM 那个年代的硬件。写一串 ARPABET https://t.co/U6iMLHwvl5"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14595,
+      "friendsCount": 639,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHcHkJ6akAAMKW8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2051312894978273661",
+    "fullText": "用多种方式在同一台 Mac 上跑同一个微型 transformer，跟 FPGA 比谁快、谁省电，顺便暴露 Python/MLX 框架在极小模型上的调度开销有多离谱。\n\nhttps://t.co/2o5QmuA4lG\n\n五种跑法同台竞技：纯 Python、NumPy、MLX CPU 和 GPU、NEON 手写 C、Q4.12 定点 C，对手是 Cyclone V FPGA 上 53k tok/sec 的 https://t.co/YB0h2Wu44m"
+  }
+]
