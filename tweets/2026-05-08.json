@@ -5,7 +5,106 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
+      "friendsCount": 641,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2052030069187682304/vid/avc1/960x586/LvV6rgCP99OBocqs.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/QingQ77/status/2052668074290028932",
+    "fullText": "开源框架，让 Codex、Claude Code 等编码代理根据文字描述生成 CAD 模型，导出 STEP/STL/3MF 等格式。\n\nhttps://t.co/wHRVOH2pUz\n\ntext-to-cad 是开源的 Text-to-CAD 框架，用 build123d/OCP 驱动，Codex 和 Claude Code 等代理写文字描述就能生成 CAD 模型。内置 CAD、URDF、Robot Motion 三套 https://t.co/ekiwAsmWGN"
+  },
+  {
+    "user": {
+      "screenName": "geekbb",
+      "name": "Geek",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+      "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+      "followersCount": 111328,
+      "friendsCount": 513,
+      "location": "火星"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/geekbb/status/2052660524660248619",
+    "fullText": "AWS 官方推出的 Agent Toolkit，给 Claude Code、Codex、Kiro 这类编程代理用的。核心是托管的 AWS MCP Server，一个接口就能调用 300 多个 AWS 服务，还能跑沙盒脚本、实时查文档。\n\nhttps://t.co/gUSw6Or7gQ"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14848,
+      "friendsCount": 641,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHwu9ZCbsAAkXov.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2052659775784337720",
+    "fullText": "30 个可跑的 Jupyter notebook，把 LLM 智能体的记忆技术从短到长、从简单到生产级全部讲透。\n\nhttps://t.co/WLh3z25gtE\n\n这个仓库把 LLM 智能体记忆拆成六个方向：短期上下文怎么管、长期信息怎么存、认知架构怎么搭、检索路由怎么选、现成框架怎么用、评估上线怎么做。\n\n每个方向都有可运行的 https://t.co/9kE4AGYFHW"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 77954,
+      "friendsCount": 202,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHx8XkRacAA5TRn.jpg",
+      "https://pbs.twimg.com/media/HHx8WP2acAAx5vx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2052652282504974420",
+    "fullText": "又看到一个颇为好用的开源 Skill：Ian Handdrawn PPT，把文章、课程笔记、提纲变成中文手绘风格的技术解释图。\n\n风格是近白纸底、细线条铅笔排线，配淡蓝淡绿等柔和标记色，中央图小而精，留白很多，文字克制。\n\nGitHub：https://t.co/Y6y1QGQkfu\n\n支持 21:9 封面图和 16:9 https://t.co/KrDsZaUDPp"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14848,
+      "friendsCount": 641,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HHpE0TDaYAAXar_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/QingQ77/status/2052650709737447482",
+    "fullText": "一个跨平台 CLI 工具，让你用一条命令就能检测、安装依赖并启动项目，不用手动一个个找目录和跑脚本。\n\nhttps://t.co/REwbgqtslg\n\nlo（Liftoff）是 Go 写的跨平台 CLI，主打一条命令启动项目。自动认出 Node、Rust、Python、Go、Java 项目和对应运行方式，看 lockfile 选包管理器，不用你配。Launchpad https://t.co/or609yhklV"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
+      "description": "https://t.co/dDtDyVssfm",
+      "followersCount": 240019849,
+      "friendsCount": 1326,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2052647951508644185",
+    "fullText": "It is too easy to troll smug libs … but it is so fun 😂"
+  },
+  {
+    "user": {
+      "screenName": "QingQ77",
+      "name": "Geek Lite",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+      "description": "✨分享一些有用好玩的 GitHub 项目",
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -20,7 +119,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 111324,
+      "followersCount": 111328,
       "friendsCount": 513,
       "location": "火星"
     },
@@ -37,7 +136,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -54,7 +153,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -71,7 +170,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 151632,
+      "followersCount": 151641,
       "friendsCount": 5008,
       "location": "Remote"
     },
@@ -86,7 +185,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg",
       "description": "https://t.co/dDtDyVssfm",
-      "followersCount": 240013457,
+      "followersCount": 240019849,
       "friendsCount": 1326,
       "location": ""
     },
@@ -101,7 +200,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -116,7 +215,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 111324,
+      "followersCount": 111328,
       "friendsCount": 513,
       "location": "火星"
     },
@@ -131,7 +230,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 151632,
+      "followersCount": 151641,
       "friendsCount": 5008,
       "location": "Remote"
     },
@@ -178,7 +277,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -196,7 +295,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -213,7 +312,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -230,7 +329,7 @@
       "name": "GitHubDaily",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
       "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
-      "followersCount": 77949,
+      "followersCount": 77954,
       "friendsCount": 202,
       "location": ""
     },
@@ -247,7 +346,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 111324,
+      "followersCount": 111328,
       "friendsCount": 513,
       "location": "火星"
     },
@@ -264,7 +363,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -281,7 +380,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -296,7 +395,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749804,
+      "followersCount": 749807,
       "friendsCount": 1254,
       "location": "有空翻翻👉"
     },
@@ -313,7 +412,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -330,7 +429,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749804,
+      "followersCount": 749807,
       "friendsCount": 1254,
       "location": "有空翻翻👉"
     },
@@ -348,7 +447,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -363,7 +462,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 111324,
+      "followersCount": 111328,
       "friendsCount": 513,
       "location": "火星"
     },
@@ -378,7 +477,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -393,7 +492,7 @@
       "name": "Mortal Kombat Movie",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052513886910255109/ZVKDGrWC_normal.png",
       "description": "Mortal Kombat II - now playing only in theaters and IMAX. Get tickets now. #MortalKombatMovie #FilmedforIMAX",
-      "followersCount": 89597,
+      "followersCount": 89617,
       "friendsCount": 19,
       "location": ""
     },
@@ -408,7 +507,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749804,
+      "followersCount": 749807,
       "friendsCount": 1254,
       "location": "有空翻翻👉"
     },
@@ -423,7 +522,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -438,7 +537,7 @@
       "name": "GitHubDaily",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
       "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
-      "followersCount": 77949,
+      "followersCount": 77954,
       "friendsCount": 202,
       "location": ""
     },
@@ -455,7 +554,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -472,7 +571,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 111324,
+      "followersCount": 111328,
       "friendsCount": 513,
       "location": "火星"
     },
@@ -489,7 +588,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -504,7 +603,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -521,7 +620,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -538,7 +637,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -553,7 +652,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -600,7 +699,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -617,7 +716,7 @@
       "name": "Ding",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000755831135191040/s6Pf_wjc_normal.jpg",
       "description": "promote your product  ‣ dingyi@me.com\n\n‣ https://t.co/q1JG1yCzdb\n‣ https://t.co/uHtq1Z3Kus\n‣ https://t.co/6rJeVpe1pD\n‣ https://t.co/cP6NQ3keo5",
-      "followersCount": 151632,
+      "followersCount": 151641,
       "friendsCount": 5008,
       "location": "Remote"
     },
@@ -634,7 +733,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -649,7 +748,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749804,
+      "followersCount": 749807,
       "friendsCount": 1254,
       "location": "有空翻翻👉"
     },
@@ -666,7 +765,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -681,7 +780,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -698,7 +797,7 @@
       "name": "GitHubDaily",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
       "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
-      "followersCount": 77949,
+      "followersCount": 77954,
       "friendsCount": 202,
       "location": ""
     },
@@ -715,7 +814,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -732,7 +831,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -749,7 +848,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -766,7 +865,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -783,7 +882,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -798,7 +897,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -815,7 +914,7 @@
       "name": "GitHubDaily",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
       "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
-      "followersCount": 77949,
+      "followersCount": 77954,
       "friendsCount": 202,
       "location": ""
     },
@@ -832,7 +931,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 111324,
+      "followersCount": 111328,
       "friendsCount": 513,
       "location": "火星"
     },
@@ -849,7 +948,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -866,7 +965,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -883,7 +982,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -900,7 +999,7 @@
       "name": "Geek",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
       "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
-      "followersCount": 111324,
+      "followersCount": 111328,
       "friendsCount": 513,
       "location": "火星"
     },
@@ -917,7 +1016,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -932,7 +1031,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -947,7 +1046,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749804,
+      "followersCount": 749807,
       "friendsCount": 1254,
       "location": "有空翻翻👉"
     },
@@ -962,7 +1061,7 @@
       "name": "GitHubDaily",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
       "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
-      "followersCount": 77949,
+      "followersCount": 77954,
       "friendsCount": 202,
       "location": ""
     },
@@ -979,7 +1078,7 @@
       "name": "Geek Lite",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
       "description": "✨分享一些有用好玩的 GitHub 项目",
-      "followersCount": 14841,
+      "followersCount": 14848,
       "friendsCount": 641,
       "location": ""
     },
@@ -996,7 +1095,7 @@
       "name": "ahhhhfs",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
       "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
-      "followersCount": 749804,
+      "followersCount": 749807,
       "friendsCount": 1254,
       "location": "有空翻翻👉"
     },
